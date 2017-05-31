@@ -1,0 +1,41 @@
+block_random_seed: 2016
+valid log-perplexity in epoch 0, block_step 1: 10.504944
+valid log-perplexity in epoch 0, block_step 2: 8.679612
+valid log-perplexity in epoch 0, block_step 3: 6.932901
+valid log-perplexity in epoch 0, block_step 4: 6.376162
+valid log-perplexity in epoch 0, block_step 5: 6.186024
+valid log-perplexity in epoch 0, block_step 6: 6.105166
+valid log-perplexity in epoch 0, block_step 7: 6.048095
+valid log-perplexity in epoch 0, block_step 8: 6.010382
+valid log-perplexity in epoch 0, block_step 9: 5.980921
+valid log-perplexity in epoch 0, block_step 10: 5.963899
+valid log-perplexity in epoch 0, block_step 11: 5.959442
+valid log-perplexity in epoch 0, block_step 12: 5.932870
+valid log-perplexity in epoch 0, block_step 13: 5.908581
+valid log-perplexity in epoch 0, block_step 14: 5.902957
+valid log-perplexity in epoch 0, block_step 15: 5.882931
+valid log-perplexity in epoch 0, block_step 16: 5.861459
+valid log-perplexity in epoch 0, block_step 17: 5.852161
+valid log-perplexity in epoch 0, block_step 18: 5.830825
+valid log-perplexity in epoch 0, block_step 19: 5.825794
+valid log-perplexity in epoch 0, block_step 20: 5.801276
+valid log-perplexity in epoch 0: 5.406752
+valid log-perplexity in epoch 1: 5.323379
+valid log-perplexity in epoch 2: 5.290602
+valid log-perplexity in epoch 3: 5.284844
+valid log-perplexity in epoch 4: 5.301883
+valid log-perplexity in epoch 5: 5.309181
+valid log-perplexity in epoch 6: 5.307285
+valid log-perplexity in epoch 7: 5.315414
+valid log-perplexity in epoch 8: 5.334187
+valid log-perplexity in epoch 9: 5.345867
+valid log-perplexity in epoch 10: 5.381309
+valid log-perplexity in epoch 11: 5.403671
+valid log-perplexity in epoch 12: 5.432310
+valid log-perplexity in epoch 13: 5.481188
+valid log-perplexity in epoch 14: 5.465903
+valid log-perplexity in epoch 15: 5.484586
+valid log-perplexity in epoch 16: 5.475551
+valid log-perplexity in epoch 17: 5.503843
+valid log-perplexity in epoch 18: 5.523919
+valid log-perplexity in epoch 19: 5.556108

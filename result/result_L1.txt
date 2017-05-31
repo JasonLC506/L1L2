@@ -1,0 +1,40 @@
+valid log-perplexity in epoch 0, block_step 1: 10.174717
+valid log-perplexity in epoch 0, block_step 2: 9.943002
+valid log-perplexity in epoch 0, block_step 3: 9.079532
+valid log-perplexity in epoch 0, block_step 4: 7.907499
+valid log-perplexity in epoch 0, block_step 5: 7.024652
+valid log-perplexity in epoch 0, block_step 6: 6.576928
+valid log-perplexity in epoch 0, block_step 7: 6.329007
+valid log-perplexity in epoch 0, block_step 8: 6.195639
+valid log-perplexity in epoch 0, block_step 9: 6.098050
+valid log-perplexity in epoch 0, block_step 10: 6.021997
+valid log-perplexity in epoch 0, block_step 11: 5.979868
+valid log-perplexity in epoch 0, block_step 12: 5.930750
+valid log-perplexity in epoch 0, block_step 13: 5.906611
+valid log-perplexity in epoch 0, block_step 14: 5.874880
+valid log-perplexity in epoch 0, block_step 15: 5.852600
+valid log-perplexity in epoch 0, block_step 16: 5.843417
+valid log-perplexity in epoch 0, block_step 17: 5.829398
+valid log-perplexity in epoch 0, block_step 18: 5.819419
+valid log-perplexity in epoch 0, block_step 19: 5.808453
+valid log-perplexity in epoch 0, block_step 20: 5.793985
+valid log-perplexity in epoch 0: 5.43738912.6
+valid log-perplexity in epoch 1: 5.34811912.6
+valid log-perplexity in epoch 2: 5.29330312.6
+valid log-perplexity in epoch 3: 5.25721412.6
+valid log-perplexity in epoch 4: 5.24728312.6
+valid log-perplexity in epoch 5: 5.24145512.6
+valid log-perplexity in epoch 6: 5.23829912.6
+valid log-perplexity in epoch 7: 5.23492412.6
+valid log-perplexity in epoch 8: 5.23015712.6
+valid log-perplexity in epoch 9: 5.22510312.6
+valid log-perplexity in epoch 10: 5.22036012.6
+valid log-perplexity in epoch 11: 5.21551012.6
+valid log-perplexity in epoch 12: 5.20706612.6
+valid log-perplexity in epoch 13: 5.19100412.6
+valid log-perplexity in epoch 14: 5.17145112.6
+valid log-perplexity in epoch 15: 5.14798612.6
+valid log-perplexity in epoch 16: 5.12845612.6
+valid log-perplexity in epoch 17: 5.10552312.6
+valid log-perplexity in epoch 18: 5.08497712.6
+valid log-perplexity in epoch 19: 5.11161312.6

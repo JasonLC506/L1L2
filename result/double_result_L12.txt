@@ -1,0 +1,113 @@
+block_random_seed: 2016
+valid log-perplexity in epoch 0, block_step 1: 10.600915
+valid log-perplexity in epoch 0, block_step 2: 9.248023
+valid log-perplexity in epoch 0, block_step 3: 7.017484
+valid log-perplexity in epoch 0, block_step 4: 6.408917
+valid log-perplexity in epoch 0, block_step 5: 6.209197
+valid log-perplexity in epoch 0, block_step 6: 6.130258
+valid log-perplexity in epoch 0, block_step 7: 6.073869
+valid log-perplexity in epoch 0, block_step 8: 6.034513
+valid log-perplexity in epoch 0, block_step 9: 6.006554
+valid log-perplexity in epoch 0, block_step 10: 5.986480
+valid log-perplexity in epoch 0, block_step 11: 5.982308
+valid log-perplexity in epoch 0, block_step 12: 5.957778
+valid log-perplexity in epoch 0, block_step 13: 5.933284
+valid log-perplexity in epoch 0, block_step 14: 5.927308
+valid log-perplexity in epoch 0, block_step 15: 5.905248
+valid log-perplexity in epoch 0, block_step 16: 5.887443
+valid log-perplexity in epoch 0, block_step 17: 5.878401
+valid log-perplexity in epoch 0, block_step 18: 5.854896
+valid log-perplexity in epoch 0, block_step 19: 5.851831
+valid log-perplexity in epoch 0, block_step 20: 5.828088
+valid log-perplexity in epoch 0: 5.463177
+valid log-perplexity in epoch 1: 5.427930
+valid log-perplexity in epoch 2: 5.437200
+valid log-perplexity in epoch 3: 5.468310
+valid log-perplexity in epoch 4: 5.501466
+valid log-perplexity in epoch 5: 5.524134
+valid log-perplexity in epoch 6: 5.545583
+valid log-perplexity in epoch 7: 5.564593
+valid log-perplexity in epoch 8: 5.622096
+valid log-perplexity in epoch 9: 5.691926
+valid log-perplexity in epoch 10: 5.728462
+valid log-perplexity in epoch 11: 5.763406
+valid log-perplexity in epoch 12: 5.813935
+valid log-perplexity in epoch 13: 5.834888
+valid log-perplexity in epoch 14: 5.871830
+valid log-perplexity in epoch 15: 5.856070
+valid log-perplexity in epoch 16: 5.875630
+valid log-perplexity in epoch 17: 5.889683
+valid log-perplexity in epoch 18: 5.868712
+valid log-perplexity in epoch 19: 5.865519
+block_random_seed: 2026
+valid log-perplexity in epoch 0, block_step 1: 10.446377
+valid log-perplexity in epoch 0, block_step 2: 9.108871
+valid log-perplexity in epoch 0, block_step 3: 7.142351
+valid log-perplexity in epoch 0, block_step 4: 6.479295
+valid log-perplexity in epoch 0, block_step 5: 6.237856
+valid log-perplexity in epoch 0, block_step 6: 6.148225
+valid log-perplexity in epoch 0, block_step 7: 6.104056
+valid log-perplexity in epoch 0, block_step 8: 6.054381
+valid log-perplexity in epoch 0, block_step 9: 6.021761
+valid log-perplexity in epoch 0, block_step 10: 5.991260
+valid log-perplexity in epoch 0, block_step 11: 5.974484
+valid log-perplexity in epoch 0, block_step 12: 5.974789
+valid log-perplexity in epoch 0, block_step 13: 5.955916
+valid log-perplexity in epoch 0, block_step 14: 5.928937
+valid log-perplexity in epoch 0, block_step 15: 5.906231
+valid log-perplexity in epoch 0, block_step 16: 5.888817
+valid log-perplexity in epoch 0, block_step 17: 5.875901
+valid log-perplexity in epoch 0, block_step 18: 5.868237
+valid log-perplexity in epoch 0, block_step 19: 5.848747
+valid log-perplexity in epoch 0, block_step 20: 5.831939
+valid log-perplexity in epoch 0: 5.452160
+valid log-perplexity in epoch 1: 5.416354
+valid log-perplexity in epoch 2: 5.434017
+valid log-perplexity in epoch 3: 5.471243
+valid log-perplexity in epoch 4: 5.496207
+valid log-perplexity in epoch 5: 5.541975
+valid log-perplexity in epoch 6: 5.532086
+valid log-perplexity in epoch 7: 5.534519
+valid log-perplexity in epoch 8: 5.564449
+valid log-perplexity in epoch 9: 5.671710
+valid log-perplexity in epoch 10: 5.709330
+valid log-perplexity in epoch 11: 5.767373
+valid log-perplexity in epoch 12: 5.775665
+valid log-perplexity in epoch 13: 5.797154
+valid log-perplexity in epoch 14: 5.812208
+valid log-perplexity in epoch 15: 5.781443
+valid log-perplexity in epoch 16: 5.786161
+valid log-perplexity in epoch 17: 5.794790
+valid log-perplexity in epoch 18: 5.813652
+valid log-perplexity in epoch 19: 5.824557
+block_random_seed: 2046
+valid log-perplexity in epoch 0, block_step 1: 10.606816
+valid log-perplexity in epoch 0, block_step 2: 9.248625
+valid log-perplexity in epoch 0, block_step 3: 7.080780
+valid log-perplexity in epoch 0, block_step 4: 6.434519
+valid log-perplexity in epoch 0, block_step 5: 6.213202
+valid log-perplexity in epoch 0, block_step 6: 6.128188
+valid log-perplexity in epoch 0, block_step 7: 6.071580
+valid log-perplexity in epoch 0, block_step 8: 6.062346
+valid log-perplexity in epoch 0, block_step 9: 6.041465
+valid log-perplexity in epoch 0, block_step 10: 6.014261
+valid log-perplexity in epoch 0, block_step 11: 5.980716
+valid log-perplexity in epoch 0, block_step 12: 5.960825
+valid log-perplexity in epoch 0, block_step 13: 5.937418
+valid log-perplexity in epoch 0, block_step 14: 5.925859
+valid log-perplexity in epoch 0, block_step 15: 5.906541
+valid log-perplexity in epoch 0, block_step 16: 5.888532
+valid log-perplexity in epoch 0, block_step 17: 5.875367
+valid log-perplexity in epoch 0, block_step 18: 5.862037
+valid log-perplexity in epoch 0, block_step 19: 5.838014
+valid log-perplexity in epoch 0, block_step 20: 5.822291
+valid log-perplexity in epoch 0: 5.465754
+valid log-perplexity in epoch 1: 5.437073
+valid log-perplexity in epoch 2: 5.444235
+valid log-perplexity in epoch 3: 5.464287
+valid log-perplexity in epoch 4: 5.503293
+valid log-perplexity in epoch 5: 5.524559
+valid log-perplexity in epoch 6: 5.556536
+valid log-perplexity in epoch 7: 5.600357
+valid log-perplexity in epoch 8: 5.680331
+valid log-perplexity in epoch 9: 5.702620

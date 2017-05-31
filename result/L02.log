@@ -1,0 +1,3014 @@
+average training loss in epoch 0, block 1: 10.591161
+time for epoch 0, block 1: 65
+average training loss in epoch 0, block 2: 10.176385
+time for epoch 0, block 2: 65
+average training loss in epoch 0, block 3: 8.777206
+time for epoch 0, block 3: 65
+average training loss in epoch 0, block 4: 7.726214
+time for epoch 0, block 4: 65
+average training loss in epoch 0, block 5: 6.645768
+time for epoch 0, block 5: 65
+average training loss in epoch 0, block 6: 6.426654
+time for epoch 0, block 6: 64
+average training loss in epoch 0, block 7: 6.381040
+time for epoch 0, block 7: 65
+average training loss in epoch 0, block 8: 6.476448
+time for epoch 0, block 8: 65
+average training loss in epoch 0, block 9: 6.164305
+time for epoch 0, block 9: 65
+average training loss in epoch 0, block 10: 6.156542
+time for epoch 0, block 10: 65
+average training loss in epoch 0, block 11: 5.783496
+time for epoch 0, block 11: 65
+average training loss in epoch 0, block 12: 5.973409
+time for epoch 0, block 12: 65
+average training loss in epoch 0, block 13: 6.043342
+time for epoch 0, block 13: 64
+average training loss in epoch 0, block 14: 5.759146
+time for epoch 0, block 14: 65
+average training loss in epoch 0, block 15: 6.062389
+time for epoch 0, block 15: 65
+average training loss in epoch 0, block 16: 5.910166
+time for epoch 0, block 16: 66
+average training loss in epoch 0, block 17: 5.849135
+time for epoch 0, block 17: 65
+average training loss in epoch 0, block 18: 6.088550
+time for epoch 0, block 18: 65
+average training loss in epoch 0, block 19: 5.944751
+time for epoch 0, block 19: 65
+average training loss in epoch 0, block 20: 5.989316
+time for epoch 0, block 20: 64
+average training loss in epoch 0, block 21: 5.928183
+time for epoch 0, block 21: 8
+average training loss in epoch 0, block 22: 5.881506
+time for epoch 0, block 22: 8
+average training loss in epoch 0, block 23: 6.073765
+time for epoch 0, block 23: 8
+average training loss in epoch 0, block 24: 5.877062
+time for epoch 0, block 24: 8
+average training loss in epoch 0, block 25: 5.791810
+time for epoch 0, block 25: 8
+average training loss in epoch 0, block 26: 5.857471
+time for epoch 0, block 26: 8
+average training loss in epoch 0, block 27: 5.934554
+time for epoch 0, block 27: 8
+average training loss in epoch 0, block 28: 5.759519
+time for epoch 0, block 28: 8
+average training loss in epoch 0, block 29: 5.848325
+time for epoch 0, block 29: 8
+average training loss in epoch 0, block 30: 5.820077
+time for epoch 0, block 30: 8
+average training loss in epoch 0, block 31: 5.950695
+time for epoch 0, block 31: 8
+average training loss in epoch 0, block 32: 5.863969
+time for epoch 0, block 32: 8
+average training loss in epoch 0, block 33: 6.051526
+time for epoch 0, block 33: 8
+average training loss in epoch 0, block 34: 5.784935
+time for epoch 0, block 34: 8
+average training loss in epoch 0, block 35: 5.981017
+time for epoch 0, block 35: 8
+average training loss in epoch 0, block 36: 5.852247
+time for epoch 0, block 36: 8
+average training loss in epoch 0, block 37: 5.693326
+time for epoch 0, block 37: 8
+average training loss in epoch 0, block 38: 5.669308
+time for epoch 0, block 38: 8
+average training loss in epoch 0, block 39: 5.613806
+time for epoch 0, block 39: 8
+average training loss in epoch 0, block 40: 5.949181
+time for epoch 0, block 40: 8
+average training loss in epoch 0, block 41: 5.925642
+time for epoch 0, block 41: 8
+average training loss in epoch 0, block 42: 5.757267
+time for epoch 0, block 42: 8
+average training loss in epoch 0, block 43: 5.866783
+time for epoch 0, block 43: 8
+average training loss in epoch 0, block 44: 5.575674
+time for epoch 0, block 44: 8
+average training loss in epoch 0, block 45: 5.604415
+time for epoch 0, block 45: 8
+average training loss in epoch 0, block 46: 5.628685
+time for epoch 0, block 46: 8
+average training loss in epoch 0, block 47: 5.804294
+time for epoch 0, block 47: 8
+average training loss in epoch 0, block 48: 5.640631
+time for epoch 0, block 48: 8
+average training loss in epoch 0, block 49: 5.732107
+time for epoch 0, block 49: 8
+average training loss in epoch 0, block 50: 5.642577
+time for epoch 0, block 50: 8
+average training loss in epoch 0, block 51: 5.772937
+time for epoch 0, block 51: 8
+average training loss in epoch 0, block 52: 5.615437
+time for epoch 0, block 52: 8
+average training loss in epoch 0, block 53: 5.744221
+time for epoch 0, block 53: 8
+average training loss in epoch 0, block 54: 5.565171
+time for epoch 0, block 54: 8
+average training loss in epoch 0, block 55: 5.562640
+time for epoch 0, block 55: 8
+average training loss in epoch 0, block 56: 5.450875
+time for epoch 0, block 56: 8
+average training loss in epoch 0, block 57: 5.692038
+time for epoch 0, block 57: 8
+average training loss in epoch 0, block 58: 5.655746
+time for epoch 0, block 58: 8
+average training loss in epoch 0, block 59: 5.652515
+time for epoch 0, block 59: 8
+average training loss in epoch 0, block 60: 5.627578
+time for epoch 0, block 60: 8
+average training loss in epoch 0, block 61: 5.590029
+time for epoch 0, block 61: 8
+average training loss in epoch 0, block 62: 5.577968
+time for epoch 0, block 62: 8
+average training loss in epoch 0, block 63: 5.714265
+time for epoch 0, block 63: 8
+average training loss in epoch 0, block 64: 5.601973
+time for epoch 0, block 64: 8
+average training loss in epoch 0, block 65: 5.653368
+time for epoch 0, block 65: 8
+average training loss in epoch 0, block 66: 5.794338
+time for epoch 0, block 66: 8
+average training loss in epoch 0, block 67: 5.609445
+time for epoch 0, block 67: 8
+average training loss in epoch 0, block 68: 5.618077
+time for epoch 0, block 68: 8
+average training loss in epoch 0, block 69: 5.592527
+time for epoch 0, block 69: 8
+average training loss in epoch 0, block 70: 5.445133
+time for epoch 0, block 70: 8
+average training loss in epoch 0, block 71: 5.357892
+time for epoch 0, block 71: 8
+average training loss in epoch 0, block 72: 5.629788
+time for epoch 0, block 72: 8
+average training loss in epoch 0, block 73: 5.727334
+time for epoch 0, block 73: 8
+average training loss in epoch 0, block 74: 5.635580
+time for epoch 0, block 74: 8
+average training loss in epoch 0, block 75: 5.564619
+time for epoch 0, block 75: 8
+average training loss in epoch 0, block 76: 5.576970
+time for epoch 0, block 76: 8
+average training loss in epoch 0, block 77: 5.516497
+time for epoch 0, block 77: 8
+average training loss in epoch 0, block 78: 5.624058
+time for epoch 0, block 78: 8
+average training loss in epoch 0, block 79: 5.711890
+time for epoch 0, block 79: 8
+average training loss in epoch 0, block 80: 5.488577
+time for epoch 0, block 80: 8
+average training loss in epoch 0, block 81: 5.451331
+time for epoch 0, block 81: 8
+average training loss in epoch 0, block 82: 5.576170
+time for epoch 0, block 82: 8
+average training loss in epoch 0, block 83: 5.716155
+time for epoch 0, block 83: 8
+average training loss in epoch 0, block 84: 5.556205
+time for epoch 0, block 84: 8
+average training loss in epoch 0, block 85: 5.688113
+time for epoch 0, block 85: 8
+average training loss in epoch 0, block 86: 5.724099
+time for epoch 0, block 86: 8
+average training loss in epoch 0, block 87: 5.735574
+time for epoch 0, block 87: 8
+average training loss in epoch 0, block 88: 5.572778
+time for epoch 0, block 88: 8
+average training loss in epoch 0, block 89: 5.269619
+time for epoch 0, block 89: 8
+average training loss in epoch 0, block 90: 5.602805
+time for epoch 0, block 90: 8
+average training loss in epoch 0, block 91: 5.591887
+time for epoch 0, block 91: 8
+average training loss in epoch 0, block 92: 5.624767
+time for epoch 0, block 92: 8
+average training loss in epoch 0, block 93: 5.605031
+time for epoch 0, block 93: 8
+average training loss in epoch 0, block 94: 5.622918
+time for epoch 0, block 94: 8
+average training loss in epoch 0, block 95: 5.619001
+time for epoch 0, block 95: 8
+average training loss in epoch 0, block 96: 5.715414
+time for epoch 0, block 96: 8
+average training loss in epoch 0, block 97: 5.397125
+time for epoch 0, block 97: 8
+average training loss in epoch 0, block 98: 5.523365
+time for epoch 0, block 98: 8
+average training loss in epoch 0, block 99: 5.535483
+time for epoch 0, block 99: 8
+average training loss in epoch 0, block 100: 5.434262
+time for epoch 0, block 100: 8
+average training loss in epoch 1, block 1: 5.612801
+time for epoch 1, block 1: 8
+average training loss in epoch 1, block 2: 5.332852
+time for epoch 1, block 2: 8
+average training loss in epoch 1, block 3: 5.259824
+time for epoch 1, block 3: 8
+average training loss in epoch 1, block 4: 5.523402
+time for epoch 1, block 4: 8
+average training loss in epoch 1, block 5: 5.351736
+time for epoch 1, block 5: 8
+average training loss in epoch 1, block 6: 5.454636
+time for epoch 1, block 6: 8
+average training loss in epoch 1, block 7: 5.607265
+time for epoch 1, block 7: 8
+average training loss in epoch 1, block 8: 5.832299
+time for epoch 1, block 8: 8
+average training loss in epoch 1, block 9: 5.539071
+time for epoch 1, block 9: 8
+average training loss in epoch 1, block 10: 5.591346
+time for epoch 1, block 10: 8
+average training loss in epoch 1, block 11: 5.194325
+time for epoch 1, block 11: 8
+average training loss in epoch 1, block 12: 5.430571
+time for epoch 1, block 12: 8
+average training loss in epoch 1, block 13: 5.512632
+time for epoch 1, block 13: 8
+average training loss in epoch 1, block 14: 5.245407
+time for epoch 1, block 14: 8
+average training loss in epoch 1, block 15: 5.579567
+time for epoch 1, block 15: 8
+average training loss in epoch 1, block 16: 5.413330
+time for epoch 1, block 16: 8
+average training loss in epoch 1, block 17: 5.398283
+time for epoch 1, block 17: 8
+average training loss in epoch 1, block 18: 5.633188
+time for epoch 1, block 18: 8
+average training loss in epoch 1, block 19: 5.438973
+time for epoch 1, block 19: 8
+average training loss in epoch 1, block 20: 5.567543
+time for epoch 1, block 20: 8
+average training loss in epoch 1, block 21: 5.500345
+time for epoch 1, block 21: 8
+average training loss in epoch 1, block 22: 5.441603
+time for epoch 1, block 22: 8
+average training loss in epoch 1, block 23: 5.646692
+time for epoch 1, block 23: 8
+average training loss in epoch 1, block 24: 5.403155
+time for epoch 1, block 24: 8
+average training loss in epoch 1, block 25: 5.334313
+time for epoch 1, block 25: 8
+average training loss in epoch 1, block 26: 5.468536
+time for epoch 1, block 26: 8
+average training loss in epoch 1, block 27: 5.507555
+time for epoch 1, block 27: 8
+average training loss in epoch 1, block 28: 5.385682
+time for epoch 1, block 28: 8
+average training loss in epoch 1, block 29: 5.450063
+time for epoch 1, block 29: 8
+average training loss in epoch 1, block 30: 5.431993
+time for epoch 1, block 30: 8
+average training loss in epoch 1, block 31: 5.579119
+time for epoch 1, block 31: 8
+average training loss in epoch 1, block 32: 5.499952
+time for epoch 1, block 32: 8
+average training loss in epoch 1, block 33: 5.698786
+time for epoch 1, block 33: 8
+average training loss in epoch 1, block 34: 5.443447
+time for epoch 1, block 34: 8
+average training loss in epoch 1, block 35: 5.622588
+time for epoch 1, block 35: 8
+average training loss in epoch 1, block 36: 5.516718
+time for epoch 1, block 36: 8
+average training loss in epoch 1, block 37: 5.355228
+time for epoch 1, block 37: 8
+average training loss in epoch 1, block 38: 5.313563
+time for epoch 1, block 38: 8
+average training loss in epoch 1, block 39: 5.301085
+time for epoch 1, block 39: 8
+average training loss in epoch 1, block 40: 5.608192
+time for epoch 1, block 40: 8
+average training loss in epoch 1, block 41: 5.607799
+time for epoch 1, block 41: 8
+average training loss in epoch 1, block 42: 5.432494
+time for epoch 1, block 42: 8
+average training loss in epoch 1, block 43: 5.565411
+time for epoch 1, block 43: 8
+average training loss in epoch 1, block 44: 5.279403
+time for epoch 1, block 44: 8
+average training loss in epoch 1, block 45: 5.288418
+time for epoch 1, block 45: 8
+average training loss in epoch 1, block 46: 5.332101
+time for epoch 1, block 46: 8
+average training loss in epoch 1, block 47: 5.535386
+time for epoch 1, block 47: 8
+average training loss in epoch 1, block 48: 5.352250
+time for epoch 1, block 48: 8
+average training loss in epoch 1, block 49: 5.475968
+time for epoch 1, block 49: 8
+average training loss in epoch 1, block 50: 5.369416
+time for epoch 1, block 50: 8
+average training loss in epoch 1, block 51: 5.525893
+time for epoch 1, block 51: 8
+average training loss in epoch 1, block 52: 5.374239
+time for epoch 1, block 52: 8
+average training loss in epoch 1, block 53: 5.481671
+time for epoch 1, block 53: 8
+average training loss in epoch 1, block 54: 5.296378
+time for epoch 1, block 54: 8
+average training loss in epoch 1, block 55: 5.316021
+time for epoch 1, block 55: 8
+average training loss in epoch 1, block 56: 5.208617
+time for epoch 1, block 56: 8
+average training loss in epoch 1, block 57: 5.451459
+time for epoch 1, block 57: 8
+average training loss in epoch 1, block 58: 5.410200
+time for epoch 1, block 58: 8
+average training loss in epoch 1, block 59: 5.388767
+time for epoch 1, block 59: 8
+average training loss in epoch 1, block 60: 5.398310
+time for epoch 1, block 60: 8
+average training loss in epoch 1, block 61: 5.353795
+time for epoch 1, block 61: 8
+average training loss in epoch 1, block 62: 5.336344
+time for epoch 1, block 62: 8
+average training loss in epoch 1, block 63: 5.481231
+time for epoch 1, block 63: 8
+average training loss in epoch 1, block 64: 5.369420
+time for epoch 1, block 64: 8
+average training loss in epoch 1, block 65: 5.417546
+time for epoch 1, block 65: 8
+average training loss in epoch 1, block 66: 5.550656
+time for epoch 1, block 66: 8
+average training loss in epoch 1, block 67: 5.394017
+time for epoch 1, block 67: 8
+average training loss in epoch 1, block 68: 5.401028
+time for epoch 1, block 68: 8
+average training loss in epoch 1, block 69: 5.368028
+time for epoch 1, block 69: 8
+average training loss in epoch 1, block 70: 5.192132
+time for epoch 1, block 70: 8
+average training loss in epoch 1, block 71: 5.133315
+time for epoch 1, block 71: 8
+average training loss in epoch 1, block 72: 5.383020
+time for epoch 1, block 72: 8
+average training loss in epoch 1, block 73: 5.520645
+time for epoch 1, block 73: 8
+average training loss in epoch 1, block 74: 5.399283
+time for epoch 1, block 74: 8
+average training loss in epoch 1, block 75: 5.333155
+time for epoch 1, block 75: 8
+average training loss in epoch 1, block 76: 5.380960
+time for epoch 1, block 76: 8
+average training loss in epoch 1, block 77: 5.300670
+time for epoch 1, block 77: 8
+average training loss in epoch 1, block 78: 5.409151
+time for epoch 1, block 78: 8
+average training loss in epoch 1, block 79: 5.490071
+time for epoch 1, block 79: 8
+average training loss in epoch 1, block 80: 5.306674
+time for epoch 1, block 80: 8
+average training loss in epoch 1, block 81: 5.230577
+time for epoch 1, block 81: 8
+average training loss in epoch 1, block 82: 5.378799
+time for epoch 1, block 82: 8
+average training loss in epoch 1, block 83: 5.503323
+time for epoch 1, block 83: 8
+average training loss in epoch 1, block 84: 5.366105
+time for epoch 1, block 84: 8
+average training loss in epoch 1, block 85: 5.482484
+time for epoch 1, block 85: 8
+average training loss in epoch 1, block 86: 5.515493
+time for epoch 1, block 86: 8
+average training loss in epoch 1, block 87: 5.574844
+time for epoch 1, block 87: 8
+average training loss in epoch 1, block 88: 5.357197
+time for epoch 1, block 88: 8
+average training loss in epoch 1, block 89: 5.063251
+time for epoch 1, block 89: 8
+average training loss in epoch 1, block 90: 5.381460
+time for epoch 1, block 90: 8
+average training loss in epoch 1, block 91: 5.391959
+time for epoch 1, block 91: 8
+average training loss in epoch 1, block 92: 5.418184
+time for epoch 1, block 92: 8
+average training loss in epoch 1, block 93: 5.429417
+time for epoch 1, block 93: 8
+average training loss in epoch 1, block 94: 5.438726
+time for epoch 1, block 94: 8
+average training loss in epoch 1, block 95: 5.431902
+time for epoch 1, block 95: 8
+average training loss in epoch 1, block 96: 5.513146
+time for epoch 1, block 96: 8
+average training loss in epoch 1, block 97: 5.193281
+time for epoch 1, block 97: 8
+average training loss in epoch 1, block 98: 5.331499
+time for epoch 1, block 98: 8
+average training loss in epoch 1, block 99: 5.310115
+time for epoch 1, block 99: 8
+average training loss in epoch 1, block 100: 5.198195
+time for epoch 1, block 100: 8
+average training loss in epoch 2, block 1: 5.430171
+time for epoch 2, block 1: 8
+average training loss in epoch 2, block 2: 5.116698
+time for epoch 2, block 2: 8
+average training loss in epoch 2, block 3: 5.074066
+time for epoch 2, block 3: 8
+average training loss in epoch 2, block 4: 5.304476
+time for epoch 2, block 4: 8
+average training loss in epoch 2, block 5: 5.173147
+time for epoch 2, block 5: 8
+average training loss in epoch 2, block 6: 5.284282
+time for epoch 2, block 6: 8
+average training loss in epoch 2, block 7: 5.430480
+time for epoch 2, block 7: 8
+average training loss in epoch 2, block 8: 5.677993
+time for epoch 2, block 8: 8
+average training loss in epoch 2, block 9: 5.365257
+time for epoch 2, block 9: 8
+average training loss in epoch 2, block 10: 5.420592
+time for epoch 2, block 10: 8
+average training loss in epoch 2, block 11: 5.026344
+time for epoch 2, block 11: 8
+average training loss in epoch 2, block 12: 5.252328
+time for epoch 2, block 12: 8
+average training loss in epoch 2, block 13: 5.335018
+time for epoch 2, block 13: 8
+average training loss in epoch 2, block 14: 5.086444
+time for epoch 2, block 14: 8
+average training loss in epoch 2, block 15: 5.421831
+time for epoch 2, block 15: 8
+average training loss in epoch 2, block 16: 5.252025
+time for epoch 2, block 16: 8
+average training loss in epoch 2, block 17: 5.252073
+time for epoch 2, block 17: 8
+average training loss in epoch 2, block 18: 5.469781
+time for epoch 2, block 18: 8
+average training loss in epoch 2, block 19: 5.256293
+time for epoch 2, block 19: 8
+average training loss in epoch 2, block 20: 5.415432
+time for epoch 2, block 20: 8
+average training loss in epoch 2, block 21: 5.337760
+time for epoch 2, block 21: 8
+average training loss in epoch 2, block 22: 5.286016
+time for epoch 2, block 22: 8
+average training loss in epoch 2, block 23: 5.480593
+time for epoch 2, block 23: 8
+average training loss in epoch 2, block 24: 5.216805
+time for epoch 2, block 24: 8
+average training loss in epoch 2, block 25: 5.154248
+time for epoch 2, block 25: 8
+average training loss in epoch 2, block 26: 5.318466
+time for epoch 2, block 26: 8
+average training loss in epoch 2, block 27: 5.344912
+time for epoch 2, block 27: 8
+average training loss in epoch 2, block 28: 5.235758
+time for epoch 2, block 28: 8
+average training loss in epoch 2, block 29: 5.296500
+time for epoch 2, block 29: 8
+average training loss in epoch 2, block 30: 5.271699
+time for epoch 2, block 30: 8
+average training loss in epoch 2, block 31: 5.433080
+time for epoch 2, block 31: 8
+average training loss in epoch 2, block 32: 5.351514
+time for epoch 2, block 32: 8
+average training loss in epoch 2, block 33: 5.537031
+time for epoch 2, block 33: 8
+average training loss in epoch 2, block 34: 5.289505
+time for epoch 2, block 34: 8
+average training loss in epoch 2, block 35: 5.470850
+time for epoch 2, block 35: 8
+average training loss in epoch 2, block 36: 5.377263
+time for epoch 2, block 36: 8
+average training loss in epoch 2, block 37: 5.207770
+time for epoch 2, block 37: 8
+average training loss in epoch 2, block 38: 5.140141
+time for epoch 2, block 38: 8
+average training loss in epoch 2, block 39: 5.168097
+time for epoch 2, block 39: 8
+average training loss in epoch 2, block 40: 5.442514
+time for epoch 2, block 40: 8
+average training loss in epoch 2, block 41: 5.469199
+time for epoch 2, block 41: 8
+average training loss in epoch 2, block 42: 5.265243
+time for epoch 2, block 42: 8
+average training loss in epoch 2, block 43: 5.420649
+time for epoch 2, block 43: 8
+average training loss in epoch 2, block 44: 5.143364
+time for epoch 2, block 44: 8
+average training loss in epoch 2, block 45: 5.137475
+time for epoch 2, block 45: 8
+average training loss in epoch 2, block 46: 5.197329
+time for epoch 2, block 46: 8
+average training loss in epoch 2, block 47: 5.404347
+time for epoch 2, block 47: 8
+average training loss in epoch 2, block 48: 5.204106
+time for epoch 2, block 48: 8
+average training loss in epoch 2, block 49: 5.350871
+time for epoch 2, block 49: 8
+average training loss in epoch 2, block 50: 5.226886
+time for epoch 2, block 50: 8
+average training loss in epoch 2, block 51: 5.401696
+time for epoch 2, block 51: 8
+average training loss in epoch 2, block 52: 5.253680
+time for epoch 2, block 52: 8
+average training loss in epoch 2, block 53: 5.360924
+time for epoch 2, block 53: 8
+average training loss in epoch 2, block 54: 5.154026
+time for epoch 2, block 54: 8
+average training loss in epoch 2, block 55: 5.203054
+time for epoch 2, block 55: 8
+average training loss in epoch 2, block 56: 5.093304
+time for epoch 2, block 56: 8
+average training loss in epoch 2, block 57: 5.346145
+time for epoch 2, block 57: 8
+average training loss in epoch 2, block 58: 5.284424
+time for epoch 2, block 58: 8
+average training loss in epoch 2, block 59: 5.239439
+time for epoch 2, block 59: 8
+average training loss in epoch 2, block 60: 5.282115
+time for epoch 2, block 60: 8
+average training loss in epoch 2, block 61: 5.242577
+time for epoch 2, block 61: 8
+average training loss in epoch 2, block 62: 5.214056
+time for epoch 2, block 62: 8
+average training loss in epoch 2, block 63: 5.365946
+time for epoch 2, block 63: 8
+average training loss in epoch 2, block 64: 5.255938
+time for epoch 2, block 64: 8
+average training loss in epoch 2, block 65: 5.300832
+time for epoch 2, block 65: 8
+average training loss in epoch 2, block 66: 5.448479
+time for epoch 2, block 66: 8
+average training loss in epoch 2, block 67: 5.310801
+time for epoch 2, block 67: 8
+average training loss in epoch 2, block 68: 5.299308
+time for epoch 2, block 68: 8
+average training loss in epoch 2, block 69: 5.280464
+time for epoch 2, block 69: 8
+average training loss in epoch 2, block 70: 5.057120
+time for epoch 2, block 70: 8
+average training loss in epoch 2, block 71: 5.042159
+time for epoch 2, block 71: 8
+average training loss in epoch 2, block 72: 5.266529
+time for epoch 2, block 72: 8
+average training loss in epoch 2, block 73: 5.430055
+time for epoch 2, block 73: 8
+average training loss in epoch 2, block 74: 5.301849
+time for epoch 2, block 74: 8
+average training loss in epoch 2, block 75: 5.224784
+time for epoch 2, block 75: 8
+average training loss in epoch 2, block 76: 5.293085
+time for epoch 2, block 76: 8
+average training loss in epoch 2, block 77: 5.211878
+time for epoch 2, block 77: 8
+average training loss in epoch 2, block 78: 5.312567
+time for epoch 2, block 78: 8
+average training loss in epoch 2, block 79: 5.408127
+time for epoch 2, block 79: 8
+average training loss in epoch 2, block 80: 5.229977
+time for epoch 2, block 80: 8
+average training loss in epoch 2, block 81: 5.143923
+time for epoch 2, block 81: 8
+average training loss in epoch 2, block 82: 5.296904
+time for epoch 2, block 82: 8
+average training loss in epoch 2, block 83: 5.415991
+time for epoch 2, block 83: 8
+average training loss in epoch 2, block 84: 5.284983
+time for epoch 2, block 84: 8
+average training loss in epoch 2, block 85: 5.401978
+time for epoch 2, block 85: 8
+average training loss in epoch 2, block 86: 5.428717
+time for epoch 2, block 86: 8
+average training loss in epoch 2, block 87: 5.512854
+time for epoch 2, block 87: 8
+average training loss in epoch 2, block 88: 5.266557
+time for epoch 2, block 88: 8
+average training loss in epoch 2, block 89: 4.988118
+time for epoch 2, block 89: 8
+average training loss in epoch 2, block 90: 5.299632
+time for epoch 2, block 90: 8
+average training loss in epoch 2, block 91: 5.313249
+time for epoch 2, block 91: 8
+average training loss in epoch 2, block 92: 5.332533
+time for epoch 2, block 92: 8
+average training loss in epoch 2, block 93: 5.359782
+time for epoch 2, block 93: 8
+average training loss in epoch 2, block 94: 5.366312
+time for epoch 2, block 94: 8
+average training loss in epoch 2, block 95: 5.361724
+time for epoch 2, block 95: 8
+average training loss in epoch 2, block 96: 5.416961
+time for epoch 2, block 96: 8
+average training loss in epoch 2, block 97: 5.110670
+time for epoch 2, block 97: 8
+average training loss in epoch 2, block 98: 5.260341
+time for epoch 2, block 98: 8
+average training loss in epoch 2, block 99: 5.215357
+time for epoch 2, block 99: 8
+average training loss in epoch 2, block 100: 5.110238
+time for epoch 2, block 100: 8
+average training loss in epoch 3, block 1: 5.361910
+time for epoch 3, block 1: 8
+average training loss in epoch 3, block 2: 5.041410
+time for epoch 3, block 2: 8
+average training loss in epoch 3, block 3: 5.003596
+time for epoch 3, block 3: 8
+average training loss in epoch 3, block 4: 5.220693
+time for epoch 3, block 4: 8
+average training loss in epoch 3, block 5: 5.101390
+time for epoch 3, block 5: 8
+average training loss in epoch 3, block 6: 5.227462
+time for epoch 3, block 6: 8
+average training loss in epoch 3, block 7: 5.369432
+time for epoch 3, block 7: 8
+average training loss in epoch 3, block 8: 5.614538
+time for epoch 3, block 8: 8
+average training loss in epoch 3, block 9: 5.301656
+time for epoch 3, block 9: 8
+average training loss in epoch 3, block 10: 5.361554
+time for epoch 3, block 10: 8
+average training loss in epoch 3, block 11: 4.961752
+time for epoch 3, block 11: 8
+average training loss in epoch 3, block 12: 5.182695
+time for epoch 3, block 12: 8
+average training loss in epoch 3, block 13: 5.268058
+time for epoch 3, block 13: 8
+average training loss in epoch 3, block 14: 5.036055
+time for epoch 3, block 14: 8
+average training loss in epoch 3, block 15: 5.366295
+time for epoch 3, block 15: 8
+average training loss in epoch 3, block 16: 5.193710
+time for epoch 3, block 16: 8
+average training loss in epoch 3, block 17: 5.189608
+time for epoch 3, block 17: 8
+average training loss in epoch 3, block 18: 5.416069
+time for epoch 3, block 18: 8
+average training loss in epoch 3, block 19: 5.189087
+time for epoch 3, block 19: 8
+average training loss in epoch 3, block 20: 5.352975
+time for epoch 3, block 20: 8
+average training loss in epoch 3, block 21: 5.280224
+time for epoch 3, block 21: 8
+average training loss in epoch 3, block 22: 5.232163
+time for epoch 3, block 22: 8
+average training loss in epoch 3, block 23: 5.420670
+time for epoch 3, block 23: 8
+average training loss in epoch 3, block 24: 5.156983
+time for epoch 3, block 24: 8
+average training loss in epoch 3, block 25: 5.093598
+time for epoch 3, block 25: 8
+average training loss in epoch 3, block 26: 5.260357
+time for epoch 3, block 26: 8
+average training loss in epoch 3, block 27: 5.281985
+time for epoch 3, block 27: 8
+average training loss in epoch 3, block 28: 5.179702
+time for epoch 3, block 28: 7
+average training loss in epoch 3, block 29: 5.235913
+time for epoch 3, block 29: 8
+average training loss in epoch 3, block 30: 5.217150
+time for epoch 3, block 30: 8
+average training loss in epoch 3, block 31: 5.382381
+time for epoch 3, block 31: 8
+average training loss in epoch 3, block 32: 5.303618
+time for epoch 3, block 32: 7
+average training loss in epoch 3, block 33: 5.482511
+time for epoch 3, block 33: 8
+average training loss in epoch 3, block 34: 5.241447
+time for epoch 3, block 34: 8
+average training loss in epoch 3, block 35: 5.422134
+time for epoch 3, block 35: 8
+average training loss in epoch 3, block 36: 5.320822
+time for epoch 3, block 36: 8
+average training loss in epoch 3, block 37: 5.158624
+time for epoch 3, block 37: 8
+average training loss in epoch 3, block 38: 5.080173
+time for epoch 3, block 38: 8
+average training loss in epoch 3, block 39: 5.126047
+time for epoch 3, block 39: 8
+average training loss in epoch 3, block 40: 5.380988
+time for epoch 3, block 40: 8
+average training loss in epoch 3, block 41: 5.414987
+time for epoch 3, block 41: 8
+average training loss in epoch 3, block 42: 5.199297
+time for epoch 3, block 42: 8
+average training loss in epoch 3, block 43: 5.359879
+time for epoch 3, block 43: 8
+average training loss in epoch 3, block 44: 5.100297
+time for epoch 3, block 44: 8
+average training loss in epoch 3, block 45: 5.082934
+time for epoch 3, block 45: 8
+average training loss in epoch 3, block 46: 5.150329
+time for epoch 3, block 46: 8
+average training loss in epoch 3, block 47: 5.349206
+time for epoch 3, block 47: 8
+average training loss in epoch 3, block 48: 5.158688
+time for epoch 3, block 48: 8
+average training loss in epoch 3, block 49: 5.307946
+time for epoch 3, block 49: 8
+average training loss in epoch 3, block 50: 5.180046
+time for epoch 3, block 50: 8
+average training loss in epoch 3, block 51: 5.367934
+time for epoch 3, block 51: 8
+average training loss in epoch 3, block 52: 5.212497
+time for epoch 3, block 52: 8
+average training loss in epoch 3, block 53: 5.314289
+time for epoch 3, block 53: 8
+average training loss in epoch 3, block 54: 5.110400
+time for epoch 3, block 54: 8
+average training loss in epoch 3, block 55: 5.157457
+time for epoch 3, block 55: 8
+average training loss in epoch 3, block 56: 5.045197
+time for epoch 3, block 56: 8
+average training loss in epoch 3, block 57: 5.313814
+time for epoch 3, block 57: 8
+average training loss in epoch 3, block 58: 5.240587
+time for epoch 3, block 58: 8
+average training loss in epoch 3, block 59: 5.194432
+time for epoch 3, block 59: 8
+average training loss in epoch 3, block 60: 5.237441
+time for epoch 3, block 60: 8
+average training loss in epoch 3, block 61: 5.201430
+time for epoch 3, block 61: 8
+average training loss in epoch 3, block 62: 5.177212
+time for epoch 3, block 62: 8
+average training loss in epoch 3, block 63: 5.334305
+time for epoch 3, block 63: 8
+average training loss in epoch 3, block 64: 5.209136
+time for epoch 3, block 64: 8
+average training loss in epoch 3, block 65: 5.249896
+time for epoch 3, block 65: 8
+average training loss in epoch 3, block 66: 5.414949
+time for epoch 3, block 66: 8
+average training loss in epoch 3, block 67: 5.278395
+time for epoch 3, block 67: 8
+average training loss in epoch 3, block 68: 5.265661
+time for epoch 3, block 68: 8
+average training loss in epoch 3, block 69: 5.239278
+time for epoch 3, block 69: 8
+average training loss in epoch 3, block 70: 5.022796
+time for epoch 3, block 70: 8
+average training loss in epoch 3, block 71: 5.010089
+time for epoch 3, block 71: 8
+average training loss in epoch 3, block 72: 5.239851
+time for epoch 3, block 72: 8
+average training loss in epoch 3, block 73: 5.411543
+time for epoch 3, block 73: 8
+average training loss in epoch 3, block 74: 5.262984
+time for epoch 3, block 74: 8
+average training loss in epoch 3, block 75: 5.180650
+time for epoch 3, block 75: 8
+average training loss in epoch 3, block 76: 5.263568
+time for epoch 3, block 76: 9
+average training loss in epoch 3, block 77: 5.186714
+time for epoch 3, block 77: 8
+average training loss in epoch 3, block 78: 5.271475
+time for epoch 3, block 78: 8
+average training loss in epoch 3, block 79: 5.372059
+time for epoch 3, block 79: 8
+average training loss in epoch 3, block 80: 5.202061
+time for epoch 3, block 80: 8
+average training loss in epoch 3, block 81: 5.110922
+time for epoch 3, block 81: 8
+average training loss in epoch 3, block 82: 5.269398
+time for epoch 3, block 82: 9
+average training loss in epoch 3, block 83: 5.374444
+time for epoch 3, block 83: 9
+average training loss in epoch 3, block 84: 5.256742
+time for epoch 3, block 84: 8
+average training loss in epoch 3, block 85: 5.362645
+time for epoch 3, block 85: 8
+average training loss in epoch 3, block 86: 5.399113
+time for epoch 3, block 86: 8
+average training loss in epoch 3, block 87: 5.483191
+time for epoch 3, block 87: 8
+average training loss in epoch 3, block 88: 5.227825
+time for epoch 3, block 88: 8
+average training loss in epoch 3, block 89: 4.963788
+time for epoch 3, block 89: 9
+average training loss in epoch 3, block 90: 5.271283
+time for epoch 3, block 90: 9
+average training loss in epoch 3, block 91: 5.287557
+time for epoch 3, block 91: 8
+average training loss in epoch 3, block 92: 5.297198
+time for epoch 3, block 92: 9
+average training loss in epoch 3, block 93: 5.333049
+time for epoch 3, block 93: 9
+average training loss in epoch 3, block 94: 5.344518
+time for epoch 3, block 94: 8
+average training loss in epoch 3, block 95: 5.328494
+time for epoch 3, block 95: 8
+average training loss in epoch 3, block 96: 5.381714
+time for epoch 3, block 96: 9
+average training loss in epoch 3, block 97: 5.093326
+time for epoch 3, block 97: 8
+average training loss in epoch 3, block 98: 5.238948
+time for epoch 3, block 98: 8
+average training loss in epoch 3, block 99: 5.194971
+time for epoch 3, block 99: 8
+average training loss in epoch 3, block 100: 5.080313
+time for epoch 3, block 100: 9
+average training loss in epoch 4, block 1: 5.348887
+time for epoch 4, block 1: 8
+average training loss in epoch 4, block 2: 5.021734
+time for epoch 4, block 2: 9
+average training loss in epoch 4, block 3: 4.978903
+time for epoch 4, block 3: 9
+average training loss in epoch 4, block 4: 5.205543
+time for epoch 4, block 4: 8
+average training loss in epoch 4, block 5: 5.079312
+time for epoch 4, block 5: 8
+average training loss in epoch 4, block 6: 5.209323
+time for epoch 4, block 6: 8
+average training loss in epoch 4, block 7: 5.352102
+time for epoch 4, block 7: 8
+average training loss in epoch 4, block 8: 5.593149
+time for epoch 4, block 8: 8
+average training loss in epoch 4, block 9: 5.280175
+time for epoch 4, block 9: 8
+average training loss in epoch 4, block 10: 5.341719
+time for epoch 4, block 10: 8
+average training loss in epoch 4, block 11: 4.942538
+time for epoch 4, block 11: 9
+average training loss in epoch 4, block 12: 5.163332
+time for epoch 4, block 12: 9
+average training loss in epoch 4, block 13: 5.251769
+time for epoch 4, block 13: 9
+average training loss in epoch 4, block 14: 5.023294
+time for epoch 4, block 14: 9
+average training loss in epoch 4, block 15: 5.351636
+time for epoch 4, block 15: 8
+average training loss in epoch 4, block 16: 5.174749
+time for epoch 4, block 16: 8
+average training loss in epoch 4, block 17: 5.171503
+time for epoch 4, block 17: 9
+average training loss in epoch 4, block 18: 5.385360
+time for epoch 4, block 18: 8
+average training loss in epoch 4, block 19: 5.165482
+time for epoch 4, block 19: 9
+average training loss in epoch 4, block 20: 5.339431
+time for epoch 4, block 20: 9
+average training loss in epoch 4, block 21: 5.261924
+time for epoch 4, block 21: 9
+average training loss in epoch 4, block 22: 5.217046
+time for epoch 4, block 22: 9
+average training loss in epoch 4, block 23: 5.403294
+time for epoch 4, block 23: 9
+average training loss in epoch 4, block 24: 5.147574
+time for epoch 4, block 24: 9
+average training loss in epoch 4, block 25: 5.072901
+time for epoch 4, block 25: 9
+average training loss in epoch 4, block 26: 5.246600
+time for epoch 4, block 26: 8
+average training loss in epoch 4, block 27: 5.267289
+time for epoch 4, block 27: 9
+average training loss in epoch 4, block 28: 5.167331
+time for epoch 4, block 28: 8
+average training loss in epoch 4, block 29: 5.217338
+time for epoch 4, block 29: 9
+average training loss in epoch 4, block 30: 5.205752
+time for epoch 4, block 30: 9
+average training loss in epoch 4, block 31: 5.366824
+time for epoch 4, block 31: 8
+average training loss in epoch 4, block 32: 5.301689
+time for epoch 4, block 32: 8
+average training loss in epoch 4, block 33: 5.481494
+time for epoch 4, block 33: 9
+average training loss in epoch 4, block 34: 5.228339
+time for epoch 4, block 34: 9
+average training loss in epoch 4, block 35: 5.410407
+time for epoch 4, block 35: 9
+average training loss in epoch 4, block 36: 5.312205
+time for epoch 4, block 36: 9
+average training loss in epoch 4, block 37: 5.149177
+time for epoch 4, block 37: 9
+average training loss in epoch 4, block 38: 5.076332
+time for epoch 4, block 38: 9
+average training loss in epoch 4, block 39: 5.117025
+time for epoch 4, block 39: 9
+average training loss in epoch 4, block 40: 5.363761
+time for epoch 4, block 40: 9
+average training loss in epoch 4, block 41: 5.406091
+time for epoch 4, block 41: 9
+average training loss in epoch 4, block 42: 5.186656
+time for epoch 4, block 42: 9
+average training loss in epoch 4, block 43: 5.351164
+time for epoch 4, block 43: 9
+average training loss in epoch 4, block 44: 5.088328
+time for epoch 4, block 44: 9
+average training loss in epoch 4, block 45: 5.072900
+time for epoch 4, block 45: 9
+average training loss in epoch 4, block 46: 5.144950
+time for epoch 4, block 46: 9
+average training loss in epoch 4, block 47: 5.348036
+time for epoch 4, block 47: 9
+average training loss in epoch 4, block 48: 5.152813
+time for epoch 4, block 48: 9
+average training loss in epoch 4, block 49: 5.302023
+time for epoch 4, block 49: 9
+average training loss in epoch 4, block 50: 5.173348
+time for epoch 4, block 50: 9
+average training loss in epoch 4, block 51: 5.363278
+time for epoch 4, block 51: 9
+average training loss in epoch 4, block 52: 5.206737
+time for epoch 4, block 52: 9
+average training loss in epoch 4, block 53: 5.306038
+time for epoch 4, block 53: 9
+average training loss in epoch 4, block 54: 5.095801
+time for epoch 4, block 54: 9
+average training loss in epoch 4, block 55: 5.152308
+time for epoch 4, block 55: 9
+average training loss in epoch 4, block 56: 5.041127
+time for epoch 4, block 56: 9
+average training loss in epoch 4, block 57: 5.302979
+time for epoch 4, block 57: 9
+average training loss in epoch 4, block 58: 5.232161
+time for epoch 4, block 58: 9
+average training loss in epoch 4, block 59: 5.183313
+time for epoch 4, block 59: 9
+average training loss in epoch 4, block 60: 5.234992
+time for epoch 4, block 60: 9
+average training loss in epoch 4, block 61: 5.188631
+time for epoch 4, block 61: 9
+average training loss in epoch 4, block 62: 5.170993
+time for epoch 4, block 62: 9
+average training loss in epoch 4, block 63: 5.325981
+time for epoch 4, block 63: 9
+average training loss in epoch 4, block 64: 5.211383
+time for epoch 4, block 64: 8
+average training loss in epoch 4, block 65: 5.252325
+time for epoch 4, block 65: 9
+average training loss in epoch 4, block 66: 5.414676
+time for epoch 4, block 66: 9
+average training loss in epoch 4, block 67: 5.268078
+time for epoch 4, block 67: 8
+average training loss in epoch 4, block 68: 5.255556
+time for epoch 4, block 68: 9
+average training loss in epoch 4, block 69: 5.234771
+time for epoch 4, block 69: 9
+average training loss in epoch 4, block 70: 5.011988
+time for epoch 4, block 70: 9
+average training loss in epoch 4, block 71: 4.997567
+time for epoch 4, block 71: 9
+average training loss in epoch 4, block 72: 5.229373
+time for epoch 4, block 72: 9
+average training loss in epoch 4, block 73: 5.399738
+time for epoch 4, block 73: 9
+average training loss in epoch 4, block 74: 5.250816
+time for epoch 4, block 74: 9
+average training loss in epoch 4, block 75: 5.171767
+time for epoch 4, block 75: 9
+average training loss in epoch 4, block 76: 5.262558
+time for epoch 4, block 76: 9
+average training loss in epoch 4, block 77: 5.179641
+time for epoch 4, block 77: 9
+average training loss in epoch 4, block 78: 5.267547
+time for epoch 4, block 78: 9
+average training loss in epoch 4, block 79: 5.358522
+time for epoch 4, block 79: 9
+average training loss in epoch 4, block 80: 5.189665
+time for epoch 4, block 80: 9
+average training loss in epoch 4, block 81: 5.102151
+time for epoch 4, block 81: 9
+average training loss in epoch 4, block 82: 5.259306
+time for epoch 4, block 82: 9
+average training loss in epoch 4, block 83: 5.367210
+time for epoch 4, block 83: 9
+average training loss in epoch 4, block 84: 5.241493
+time for epoch 4, block 84: 9
+average training loss in epoch 4, block 85: 5.353919
+time for epoch 4, block 85: 9
+average training loss in epoch 4, block 86: 5.387360
+time for epoch 4, block 86: 9
+average training loss in epoch 4, block 87: 5.477002
+time for epoch 4, block 87: 9
+average training loss in epoch 4, block 88: 5.209943
+time for epoch 4, block 88: 9
+average training loss in epoch 4, block 89: 4.946519
+time for epoch 4, block 89: 9
+average training loss in epoch 4, block 90: 5.256119
+time for epoch 4, block 90: 9
+average training loss in epoch 4, block 91: 5.273167
+time for epoch 4, block 91: 9
+average training loss in epoch 4, block 92: 5.284527
+time for epoch 4, block 92: 9
+average training loss in epoch 4, block 93: 5.321121
+time for epoch 4, block 93: 9
+average training loss in epoch 4, block 94: 5.330685
+time for epoch 4, block 94: 9
+average training loss in epoch 4, block 95: 5.311497
+time for epoch 4, block 95: 9
+average training loss in epoch 4, block 96: 5.363508
+time for epoch 4, block 96: 9
+average training loss in epoch 4, block 97: 5.074698
+time for epoch 4, block 97: 9
+average training loss in epoch 4, block 98: 5.222792
+time for epoch 4, block 98: 9
+average training loss in epoch 4, block 99: 5.179050
+time for epoch 4, block 99: 9
+average training loss in epoch 4, block 100: 5.065465
+time for epoch 4, block 100: 9
+average training loss in epoch 5, block 1: 5.338016
+time for epoch 5, block 1: 9
+average training loss in epoch 5, block 2: 5.005134
+time for epoch 5, block 2: 9
+average training loss in epoch 5, block 3: 4.969328
+time for epoch 5, block 3: 9
+average training loss in epoch 5, block 4: 5.196141
+time for epoch 5, block 4: 9
+average training loss in epoch 5, block 5: 5.068874
+time for epoch 5, block 5: 9
+average training loss in epoch 5, block 6: 5.197524
+time for epoch 5, block 6: 9
+average training loss in epoch 5, block 7: 5.342463
+time for epoch 5, block 7: 8
+average training loss in epoch 5, block 8: 5.587537
+time for epoch 5, block 8: 9
+average training loss in epoch 5, block 9: 5.272805
+time for epoch 5, block 9: 8
+average training loss in epoch 5, block 10: 5.340557
+time for epoch 5, block 10: 8
+average training loss in epoch 5, block 11: 4.936473
+time for epoch 5, block 11: 8
+average training loss in epoch 5, block 12: 5.154835
+time for epoch 5, block 12: 8
+average training loss in epoch 5, block 13: 5.240970
+time for epoch 5, block 13: 9
+average training loss in epoch 5, block 14: 5.015771
+time for epoch 5, block 14: 8
+average training loss in epoch 5, block 15: 5.348753
+time for epoch 5, block 15: 9
+average training loss in epoch 5, block 16: 5.168057
+time for epoch 5, block 16: 9
+average training loss in epoch 5, block 17: 5.162287
+time for epoch 5, block 17: 8
+average training loss in epoch 5, block 18: 5.384355
+time for epoch 5, block 18: 8
+average training loss in epoch 5, block 19: 5.158178
+time for epoch 5, block 19: 9
+average training loss in epoch 5, block 20: 5.345426
+time for epoch 5, block 20: 8
+average training loss in epoch 5, block 21: 5.252379
+time for epoch 5, block 21: 9
+average training loss in epoch 5, block 22: 5.214453
+time for epoch 5, block 22: 9
+average training loss in epoch 5, block 23: 5.395845
+time for epoch 5, block 23: 8
+average training loss in epoch 5, block 24: 5.142297
+time for epoch 5, block 24: 8
+average training loss in epoch 5, block 25: 5.066416
+time for epoch 5, block 25: 8
+average training loss in epoch 5, block 26: 5.235092
+time for epoch 5, block 26: 9
+average training loss in epoch 5, block 27: 5.265305
+time for epoch 5, block 27: 8
+average training loss in epoch 5, block 28: 5.161503
+time for epoch 5, block 28: 8
+average training loss in epoch 5, block 29: 5.208462
+time for epoch 5, block 29: 8
+average training loss in epoch 5, block 30: 5.200840
+time for epoch 5, block 30: 8
+average training loss in epoch 5, block 31: 5.367941
+time for epoch 5, block 31: 8
+average training loss in epoch 5, block 32: 5.302004
+time for epoch 5, block 32: 9
+average training loss in epoch 5, block 33: 5.482295
+time for epoch 5, block 33: 8
+average training loss in epoch 5, block 34: 5.220057
+time for epoch 5, block 34: 8
+average training loss in epoch 5, block 35: 5.409292
+time for epoch 5, block 35: 9
+average training loss in epoch 5, block 36: 5.311428
+time for epoch 5, block 36: 9
+average training loss in epoch 5, block 37: 5.145688
+time for epoch 5, block 37: 8
+average training loss in epoch 5, block 38: 5.068614
+time for epoch 5, block 38: 9
+average training loss in epoch 5, block 39: 5.110014
+time for epoch 5, block 39: 9
+average training loss in epoch 5, block 40: 5.356972
+time for epoch 5, block 40: 9
+average training loss in epoch 5, block 41: 5.408165
+time for epoch 5, block 41: 9
+average training loss in epoch 5, block 42: 5.181624
+time for epoch 5, block 42: 9
+average training loss in epoch 5, block 43: 5.353314
+time for epoch 5, block 43: 8
+average training loss in epoch 5, block 44: 5.086437
+time for epoch 5, block 44: 8
+average training loss in epoch 5, block 45: 5.065793
+time for epoch 5, block 45: 8
+average training loss in epoch 5, block 46: 5.144368
+time for epoch 5, block 46: 9
+average training loss in epoch 5, block 47: 5.348098
+time for epoch 5, block 47: 8
+average training loss in epoch 5, block 48: 5.142452
+time for epoch 5, block 48: 8
+average training loss in epoch 5, block 49: 5.298558
+time for epoch 5, block 49: 8
+average training loss in epoch 5, block 50: 5.167697
+time for epoch 5, block 50: 8
+average training loss in epoch 5, block 51: 5.354767
+time for epoch 5, block 51: 8
+average training loss in epoch 5, block 52: 5.197089
+time for epoch 5, block 52: 8
+average training loss in epoch 5, block 53: 5.303483
+time for epoch 5, block 53: 9
+average training loss in epoch 5, block 54: 5.084056
+time for epoch 5, block 54: 8
+average training loss in epoch 5, block 55: 5.151355
+time for epoch 5, block 55: 9
+average training loss in epoch 5, block 56: 5.033866
+time for epoch 5, block 56: 9
+average training loss in epoch 5, block 57: 5.303544
+time for epoch 5, block 57: 8
+average training loss in epoch 5, block 58: 5.217884
+time for epoch 5, block 58: 9
+average training loss in epoch 5, block 59: 5.178836
+time for epoch 5, block 59: 9
+average training loss in epoch 5, block 60: 5.229229
+time for epoch 5, block 60: 9
+average training loss in epoch 5, block 61: 5.182708
+time for epoch 5, block 61: 9
+average training loss in epoch 5, block 62: 5.163408
+time for epoch 5, block 62: 9
+average training loss in epoch 5, block 63: 5.315852
+time for epoch 5, block 63: 9
+average training loss in epoch 5, block 64: 5.199760
+time for epoch 5, block 64: 9
+average training loss in epoch 5, block 65: 5.235483
+time for epoch 5, block 65: 9
+average training loss in epoch 5, block 66: 5.393849
+time for epoch 5, block 66: 9
+average training loss in epoch 5, block 67: 5.249838
+time for epoch 5, block 67: 9
+average training loss in epoch 5, block 68: 5.233104
+time for epoch 5, block 68: 9
+average training loss in epoch 5, block 69: 5.213512
+time for epoch 5, block 69: 9
+average training loss in epoch 5, block 70: 4.979094
+time for epoch 5, block 70: 9
+average training loss in epoch 5, block 71: 4.971758
+time for epoch 5, block 71: 9
+average training loss in epoch 5, block 72: 5.183762
+time for epoch 5, block 72: 9
+average training loss in epoch 5, block 73: 5.359453
+time for epoch 5, block 73: 9
+average training loss in epoch 5, block 74: 5.204304
+time for epoch 5, block 74: 9
+average training loss in epoch 5, block 75: 5.126103
+time for epoch 5, block 75: 9
+average training loss in epoch 5, block 76: 5.230785
+time for epoch 5, block 76: 9
+average training loss in epoch 5, block 77: 5.139724
+time for epoch 5, block 77: 9
+average training loss in epoch 5, block 78: 5.232845
+time for epoch 5, block 78: 9
+average training loss in epoch 5, block 79: 5.317131
+time for epoch 5, block 79: 9
+average training loss in epoch 5, block 80: 5.152902
+time for epoch 5, block 80: 9
+average training loss in epoch 5, block 81: 5.061446
+time for epoch 5, block 81: 9
+average training loss in epoch 5, block 82: 5.220858
+time for epoch 5, block 82: 9
+average training loss in epoch 5, block 83: 5.313562
+time for epoch 5, block 83: 9
+average training loss in epoch 5, block 84: 5.200404
+time for epoch 5, block 84: 9
+average training loss in epoch 5, block 85: 5.308858
+time for epoch 5, block 85: 9
+average training loss in epoch 5, block 86: 5.337230
+time for epoch 5, block 86: 9
+average training loss in epoch 5, block 87: 5.434079
+time for epoch 5, block 87: 9
+average training loss in epoch 5, block 88: 5.167939
+time for epoch 5, block 88: 9
+average training loss in epoch 5, block 89: 4.892626
+time for epoch 5, block 89: 9
+average training loss in epoch 5, block 90: 5.194101
+time for epoch 5, block 90: 8
+average training loss in epoch 5, block 91: 5.221464
+time for epoch 5, block 91: 9
+average training loss in epoch 5, block 92: 5.241290
+time for epoch 5, block 92: 9
+average training loss in epoch 5, block 93: 5.273034
+time for epoch 5, block 93: 9
+average training loss in epoch 5, block 94: 5.278079
+time for epoch 5, block 94: 9
+average training loss in epoch 5, block 95: 5.265945
+time for epoch 5, block 95: 9
+average training loss in epoch 5, block 96: 5.312379
+time for epoch 5, block 96: 9
+average training loss in epoch 5, block 97: 5.019860
+time for epoch 5, block 97: 9
+average training loss in epoch 5, block 98: 5.176895
+time for epoch 5, block 98: 9
+average training loss in epoch 5, block 99: 5.109846
+time for epoch 5, block 99: 9
+average training loss in epoch 5, block 100: 5.003693
+time for epoch 5, block 100: 9
+average training loss in epoch 6, block 1: 5.278027
+time for epoch 6, block 1: 9
+average training loss in epoch 6, block 2: 4.956212
+time for epoch 6, block 2: 9
+average training loss in epoch 6, block 3: 4.921517
+time for epoch 6, block 3: 9
+average training loss in epoch 6, block 4: 5.135004
+time for epoch 6, block 4: 9
+average training loss in epoch 6, block 5: 5.023375
+time for epoch 6, block 5: 9
+average training loss in epoch 6, block 6: 5.158761
+time for epoch 6, block 6: 9
+average training loss in epoch 6, block 7: 5.288285
+time for epoch 6, block 7: 9
+average training loss in epoch 6, block 8: 5.536535
+time for epoch 6, block 8: 9
+average training loss in epoch 6, block 9: 5.219552
+time for epoch 6, block 9: 9
+average training loss in epoch 6, block 10: 5.284658
+time for epoch 6, block 10: 9
+average training loss in epoch 6, block 11: 4.886492
+time for epoch 6, block 11: 9
+average training loss in epoch 6, block 12: 5.098328
+time for epoch 6, block 12: 9
+average training loss in epoch 6, block 13: 5.184371
+time for epoch 6, block 13: 9
+average training loss in epoch 6, block 14: 4.970177
+time for epoch 6, block 14: 9
+average training loss in epoch 6, block 15: 5.293880
+time for epoch 6, block 15: 9
+average training loss in epoch 6, block 16: 5.120695
+time for epoch 6, block 16: 9
+average training loss in epoch 6, block 17: 5.108448
+time for epoch 6, block 17: 9
+average training loss in epoch 6, block 18: 5.317078
+time for epoch 6, block 18: 9
+average training loss in epoch 6, block 19: 5.103767
+time for epoch 6, block 19: 9
+average training loss in epoch 6, block 20: 5.289087
+time for epoch 6, block 20: 9
+average training loss in epoch 6, block 21: 5.204455
+time for epoch 6, block 21: 9
+average training loss in epoch 6, block 22: 5.151361
+time for epoch 6, block 22: 9
+average training loss in epoch 6, block 23: 5.342241
+time for epoch 6, block 23: 9
+average training loss in epoch 6, block 24: 5.076863
+time for epoch 6, block 24: 9
+average training loss in epoch 6, block 25: 5.006056
+time for epoch 6, block 25: 9
+average training loss in epoch 6, block 26: 5.173683
+time for epoch 6, block 26: 9
+average training loss in epoch 6, block 27: 5.200461
+time for epoch 6, block 27: 9
+average training loss in epoch 6, block 28: 5.111782
+time for epoch 6, block 28: 9
+average training loss in epoch 6, block 29: 5.141759
+time for epoch 6, block 29: 9
+average training loss in epoch 6, block 30: 5.131961
+time for epoch 6, block 30: 9
+average training loss in epoch 6, block 31: 5.299920
+time for epoch 6, block 31: 8
+average training loss in epoch 6, block 32: 5.233367
+time for epoch 6, block 32: 9
+average training loss in epoch 6, block 33: 5.417606
+time for epoch 6, block 33: 9
+average training loss in epoch 6, block 34: 5.157388
+time for epoch 6, block 34: 9
+average training loss in epoch 6, block 35: 5.343206
+time for epoch 6, block 35: 9
+average training loss in epoch 6, block 36: 5.254145
+time for epoch 6, block 36: 8
+average training loss in epoch 6, block 37: 5.086470
+time for epoch 6, block 37: 8
+average training loss in epoch 6, block 38: 5.012395
+time for epoch 6, block 38: 9
+average training loss in epoch 6, block 39: 5.056224
+time for epoch 6, block 39: 9
+average training loss in epoch 6, block 40: 5.291549
+time for epoch 6, block 40: 9
+average training loss in epoch 6, block 41: 5.350184
+time for epoch 6, block 41: 9
+average training loss in epoch 6, block 42: 5.112997
+time for epoch 6, block 42: 9
+average training loss in epoch 6, block 43: 5.284145
+time for epoch 6, block 43: 8
+average training loss in epoch 6, block 44: 5.028760
+time for epoch 6, block 44: 9
+average training loss in epoch 6, block 45: 4.995683
+time for epoch 6, block 45: 9
+average training loss in epoch 6, block 46: 5.085018
+time for epoch 6, block 46: 9
+average training loss in epoch 6, block 47: 5.278623
+time for epoch 6, block 47: 9
+average training loss in epoch 6, block 48: 5.088630
+time for epoch 6, block 48: 9
+average training loss in epoch 6, block 49: 5.239179
+time for epoch 6, block 49: 9
+average training loss in epoch 6, block 50: 5.103883
+time for epoch 6, block 50: 9
+average training loss in epoch 6, block 51: 5.302544
+time for epoch 6, block 51: 9
+average training loss in epoch 6, block 52: 5.149009
+time for epoch 6, block 52: 9
+average training loss in epoch 6, block 53: 5.248396
+time for epoch 6, block 53: 9
+average training loss in epoch 6, block 54: 5.027992
+time for epoch 6, block 54: 9
+average training loss in epoch 6, block 55: 5.096673
+time for epoch 6, block 55: 9
+average training loss in epoch 6, block 56: 4.971474
+time for epoch 6, block 56: 9
+average training loss in epoch 6, block 57: 5.250774
+time for epoch 6, block 57: 9
+average training loss in epoch 6, block 58: 5.161592
+time for epoch 6, block 58: 9
+average training loss in epoch 6, block 59: 5.112437
+time for epoch 6, block 59: 9
+average training loss in epoch 6, block 60: 5.170254
+time for epoch 6, block 60: 9
+average training loss in epoch 6, block 61: 5.122737
+time for epoch 6, block 61: 9
+average training loss in epoch 6, block 62: 5.095557
+time for epoch 6, block 62: 9
+average training loss in epoch 6, block 63: 5.260035
+time for epoch 6, block 63: 9
+average training loss in epoch 6, block 64: 5.138358
+time for epoch 6, block 64: 9
+average training loss in epoch 6, block 65: 5.181382
+time for epoch 6, block 65: 9
+average training loss in epoch 6, block 66: 5.336776
+time for epoch 6, block 66: 9
+average training loss in epoch 6, block 67: 5.222720
+time for epoch 6, block 67: 9
+average training loss in epoch 6, block 68: 5.190257
+time for epoch 6, block 68: 9
+average training loss in epoch 6, block 69: 5.178351
+time for epoch 6, block 69: 9
+average training loss in epoch 6, block 70: 4.938986
+time for epoch 6, block 70: 9
+average training loss in epoch 6, block 71: 4.932979
+time for epoch 6, block 71: 9
+average training loss in epoch 6, block 72: 5.135570
+time for epoch 6, block 72: 9
+average training loss in epoch 6, block 73: 5.331328
+time for epoch 6, block 73: 9
+average training loss in epoch 6, block 74: 5.170917
+time for epoch 6, block 74: 9
+average training loss in epoch 6, block 75: 5.094796
+time for epoch 6, block 75: 9
+average training loss in epoch 6, block 76: 5.205657
+time for epoch 6, block 76: 8
+average training loss in epoch 6, block 77: 5.113829
+time for epoch 6, block 77: 9
+average training loss in epoch 6, block 78: 5.214475
+time for epoch 6, block 78: 9
+average training loss in epoch 6, block 79: 5.310475
+time for epoch 6, block 79: 9
+average training loss in epoch 6, block 80: 5.133338
+time for epoch 6, block 80: 9
+average training loss in epoch 6, block 81: 5.039919
+time for epoch 6, block 81: 9
+average training loss in epoch 6, block 82: 5.209775
+time for epoch 6, block 82: 9
+average training loss in epoch 6, block 83: 5.296346
+time for epoch 6, block 83: 9
+average training loss in epoch 6, block 84: 5.190697
+time for epoch 6, block 84: 9
+average training loss in epoch 6, block 85: 5.292593
+time for epoch 6, block 85: 9
+average training loss in epoch 6, block 86: 5.328902
+time for epoch 6, block 86: 9
+average training loss in epoch 6, block 87: 5.422066
+time for epoch 6, block 87: 9
+average training loss in epoch 6, block 88: 5.155348
+time for epoch 6, block 88: 9
+average training loss in epoch 6, block 89: 4.882515
+time for epoch 6, block 89: 9
+average training loss in epoch 6, block 90: 5.184552
+time for epoch 6, block 90: 9
+average training loss in epoch 6, block 91: 5.209898
+time for epoch 6, block 91: 9
+average training loss in epoch 6, block 92: 5.233014
+time for epoch 6, block 92: 9
+average training loss in epoch 6, block 93: 5.263385
+time for epoch 6, block 93: 9
+average training loss in epoch 6, block 94: 5.270949
+time for epoch 6, block 94: 9
+average training loss in epoch 6, block 95: 5.256223
+time for epoch 6, block 95: 9
+average training loss in epoch 6, block 96: 5.292066
+time for epoch 6, block 96: 9
+average training loss in epoch 6, block 97: 5.005932
+time for epoch 6, block 97: 9
+average training loss in epoch 6, block 98: 5.166893
+time for epoch 6, block 98: 9
+average training loss in epoch 6, block 99: 5.102688
+time for epoch 6, block 99: 9
+average training loss in epoch 6, block 100: 4.986811
+time for epoch 6, block 100: 9
+average training loss in epoch 7, block 1: 5.277179
+time for epoch 7, block 1: 9
+average training loss in epoch 7, block 2: 4.944976
+time for epoch 7, block 2: 9
+average training loss in epoch 7, block 3: 4.913257
+time for epoch 7, block 3: 9
+average training loss in epoch 7, block 4: 5.115725
+time for epoch 7, block 4: 9
+average training loss in epoch 7, block 5: 5.011629
+time for epoch 7, block 5: 9
+average training loss in epoch 7, block 6: 5.150651
+time for epoch 7, block 6: 9
+average training loss in epoch 7, block 7: 5.275780
+time for epoch 7, block 7: 9
+average training loss in epoch 7, block 8: 5.531083
+time for epoch 7, block 8: 9
+average training loss in epoch 7, block 9: 5.218709
+time for epoch 7, block 9: 9
+average training loss in epoch 7, block 10: 5.281642
+time for epoch 7, block 10: 9
+average training loss in epoch 7, block 11: 4.879286
+time for epoch 7, block 11: 9
+average training loss in epoch 7, block 12: 5.090619
+time for epoch 7, block 12: 8
+average training loss in epoch 7, block 13: 5.168177
+time for epoch 7, block 13: 8
+average training loss in epoch 7, block 14: 4.964270
+time for epoch 7, block 14: 8
+average training loss in epoch 7, block 15: 5.285673
+time for epoch 7, block 15: 8
+average training loss in epoch 7, block 16: 5.110583
+time for epoch 7, block 16: 8
+average training loss in epoch 7, block 17: 5.097538
+time for epoch 7, block 17: 8
+average training loss in epoch 7, block 18: 5.317381
+time for epoch 7, block 18: 8
+average training loss in epoch 7, block 19: 5.096289
+time for epoch 7, block 19: 8
+average training loss in epoch 7, block 20: 5.293890
+time for epoch 7, block 20: 8
+average training loss in epoch 7, block 21: 5.210108
+time for epoch 7, block 21: 8
+average training loss in epoch 7, block 22: 5.144334
+time for epoch 7, block 22: 8
+average training loss in epoch 7, block 23: 5.341139
+time for epoch 7, block 23: 8
+average training loss in epoch 7, block 24: 5.065602
+time for epoch 7, block 24: 8
+average training loss in epoch 7, block 25: 4.996349
+time for epoch 7, block 25: 9
+average training loss in epoch 7, block 26: 5.164792
+time for epoch 7, block 26: 9
+average training loss in epoch 7, block 27: 5.188662
+time for epoch 7, block 27: 9
+average training loss in epoch 7, block 28: 5.104385
+time for epoch 7, block 28: 9
+average training loss in epoch 7, block 29: 5.130322
+time for epoch 7, block 29: 9
+average training loss in epoch 7, block 30: 5.123468
+time for epoch 7, block 30: 9
+average training loss in epoch 7, block 31: 5.293341
+time for epoch 7, block 31: 9
+average training loss in epoch 7, block 32: 5.226940
+time for epoch 7, block 32: 9
+average training loss in epoch 7, block 33: 5.406278
+time for epoch 7, block 33: 9
+average training loss in epoch 7, block 34: 5.148088
+time for epoch 7, block 34: 9
+average training loss in epoch 7, block 35: 5.331852
+time for epoch 7, block 35: 9
+average training loss in epoch 7, block 36: 5.251987
+time for epoch 7, block 36: 8
+average training loss in epoch 7, block 37: 5.073190
+time for epoch 7, block 37: 9
+average training loss in epoch 7, block 38: 5.002766
+time for epoch 7, block 38: 9
+average training loss in epoch 7, block 39: 5.047693
+time for epoch 7, block 39: 9
+average training loss in epoch 7, block 40: 5.288102
+time for epoch 7, block 40: 9
+average training loss in epoch 7, block 41: 5.343346
+time for epoch 7, block 41: 9
+average training loss in epoch 7, block 42: 5.098100
+time for epoch 7, block 42: 9
+average training loss in epoch 7, block 43: 5.273078
+time for epoch 7, block 43: 9
+average training loss in epoch 7, block 44: 5.014697
+time for epoch 7, block 44: 9
+average training loss in epoch 7, block 45: 4.985331
+time for epoch 7, block 45: 9
+average training loss in epoch 7, block 46: 5.078168
+time for epoch 7, block 46: 9
+average training loss in epoch 7, block 47: 5.262750
+time for epoch 7, block 47: 9
+average training loss in epoch 7, block 48: 5.073585
+time for epoch 7, block 48: 9
+average training loss in epoch 7, block 49: 5.224297
+time for epoch 7, block 49: 8
+average training loss in epoch 7, block 50: 5.090844
+time for epoch 7, block 50: 9
+average training loss in epoch 7, block 51: 5.287651
+time for epoch 7, block 51: 9
+average training loss in epoch 7, block 52: 5.144046
+time for epoch 7, block 52: 9
+average training loss in epoch 7, block 53: 5.236473
+time for epoch 7, block 53: 9
+average training loss in epoch 7, block 54: 5.016545
+time for epoch 7, block 54: 9
+average training loss in epoch 7, block 55: 5.087117
+time for epoch 7, block 55: 9
+average training loss in epoch 7, block 56: 4.955437
+time for epoch 7, block 56: 9
+average training loss in epoch 7, block 57: 5.240254
+time for epoch 7, block 57: 9
+average training loss in epoch 7, block 58: 5.151001
+time for epoch 7, block 58: 9
+average training loss in epoch 7, block 59: 5.102213
+time for epoch 7, block 59: 9
+average training loss in epoch 7, block 60: 5.153870
+time for epoch 7, block 60: 9
+average training loss in epoch 7, block 61: 5.113496
+time for epoch 7, block 61: 9
+average training loss in epoch 7, block 62: 5.077553
+time for epoch 7, block 62: 8
+average training loss in epoch 7, block 63: 5.241032
+time for epoch 7, block 63: 9
+average training loss in epoch 7, block 64: 5.123508
+time for epoch 7, block 64: 9
+average training loss in epoch 7, block 65: 5.166273
+time for epoch 7, block 65: 9
+average training loss in epoch 7, block 66: 5.322644
+time for epoch 7, block 66: 9
+average training loss in epoch 7, block 67: 5.208093
+time for epoch 7, block 67: 9
+average training loss in epoch 7, block 68: 5.178525
+time for epoch 7, block 68: 9
+average training loss in epoch 7, block 69: 5.157669
+time for epoch 7, block 69: 9
+average training loss in epoch 7, block 70: 4.917380
+time for epoch 7, block 70: 9
+average training loss in epoch 7, block 71: 4.921226
+time for epoch 7, block 71: 9
+average training loss in epoch 7, block 72: 5.117259
+time for epoch 7, block 72: 9
+average training loss in epoch 7, block 73: 5.311083
+time for epoch 7, block 73: 9
+average training loss in epoch 7, block 74: 5.156697
+time for epoch 7, block 74: 9
+average training loss in epoch 7, block 75: 5.083707
+time for epoch 7, block 75: 9
+average training loss in epoch 7, block 76: 5.185551
+time for epoch 7, block 76: 9
+average training loss in epoch 7, block 77: 5.101002
+time for epoch 7, block 77: 9
+average training loss in epoch 7, block 78: 5.201307
+time for epoch 7, block 78: 9
+average training loss in epoch 7, block 79: 5.300759
+time for epoch 7, block 79: 9
+average training loss in epoch 7, block 80: 5.113131
+time for epoch 7, block 80: 9
+average training loss in epoch 7, block 81: 5.026322
+time for epoch 7, block 81: 9
+average training loss in epoch 7, block 82: 5.196163
+time for epoch 7, block 82: 9
+average training loss in epoch 7, block 83: 5.280535
+time for epoch 7, block 83: 9
+average training loss in epoch 7, block 84: 5.178233
+time for epoch 7, block 84: 9
+average training loss in epoch 7, block 85: 5.279104
+time for epoch 7, block 85: 9
+average training loss in epoch 7, block 86: 5.315388
+time for epoch 7, block 86: 9
+average training loss in epoch 7, block 87: 5.406090
+time for epoch 7, block 87: 9
+average training loss in epoch 7, block 88: 5.139061
+time for epoch 7, block 88: 9
+average training loss in epoch 7, block 89: 4.865839
+time for epoch 7, block 89: 9
+average training loss in epoch 7, block 90: 5.168913
+time for epoch 7, block 90: 9
+average training loss in epoch 7, block 91: 5.195828
+time for epoch 7, block 91: 9
+average training loss in epoch 7, block 92: 5.224213
+time for epoch 7, block 92: 9
+average training loss in epoch 7, block 93: 5.249191
+time for epoch 7, block 93: 9
+average training loss in epoch 7, block 94: 5.257329
+time for epoch 7, block 94: 9
+average training loss in epoch 7, block 95: 5.242577
+time for epoch 7, block 95: 9
+average training loss in epoch 7, block 96: 5.273885
+time for epoch 7, block 96: 9
+average training loss in epoch 7, block 97: 4.990751
+time for epoch 7, block 97: 9
+average training loss in epoch 7, block 98: 5.146561
+time for epoch 7, block 98: 9
+average training loss in epoch 7, block 99: 5.078351
+time for epoch 7, block 99: 9
+average training loss in epoch 7, block 100: 4.969159
+time for epoch 7, block 100: 9
+average training loss in epoch 8, block 1: 5.262721
+time for epoch 8, block 1: 9
+average training loss in epoch 8, block 2: 4.927070
+time for epoch 8, block 2: 8
+average training loss in epoch 8, block 3: 4.897839
+time for epoch 8, block 3: 9
+average training loss in epoch 8, block 4: 5.093160
+time for epoch 8, block 4: 9
+average training loss in epoch 8, block 5: 4.999271
+time for epoch 8, block 5: 9
+average training loss in epoch 8, block 6: 5.134898
+time for epoch 8, block 6: 9
+average training loss in epoch 8, block 7: 5.256435
+time for epoch 8, block 7: 9
+average training loss in epoch 8, block 8: 5.515969
+time for epoch 8, block 8: 9
+average training loss in epoch 8, block 9: 5.203328
+time for epoch 8, block 9: 9
+average training loss in epoch 8, block 10: 5.259477
+time for epoch 8, block 10: 8
+average training loss in epoch 8, block 11: 4.865798
+time for epoch 8, block 11: 9
+average training loss in epoch 8, block 12: 5.077282
+time for epoch 8, block 12: 8
+average training loss in epoch 8, block 13: 5.151945
+time for epoch 8, block 13: 9
+average training loss in epoch 8, block 14: 4.950768
+time for epoch 8, block 14: 9
+average training loss in epoch 8, block 15: 5.267963
+time for epoch 8, block 15: 9
+average training loss in epoch 8, block 16: 5.096889
+time for epoch 8, block 16: 9
+average training loss in epoch 8, block 17: 5.079403
+time for epoch 8, block 17: 9
+average training loss in epoch 8, block 18: 5.309676
+time for epoch 8, block 18: 9
+average training loss in epoch 8, block 19: 5.080719
+time for epoch 8, block 19: 9
+average training loss in epoch 8, block 20: 5.273141
+time for epoch 8, block 20: 9
+average training loss in epoch 8, block 21: 5.195578
+time for epoch 8, block 21: 9
+average training loss in epoch 8, block 22: 5.131717
+time for epoch 8, block 22: 9
+average training loss in epoch 8, block 23: 5.319838
+time for epoch 8, block 23: 8
+average training loss in epoch 8, block 24: 5.056193
+time for epoch 8, block 24: 9
+average training loss in epoch 8, block 25: 4.982941
+time for epoch 8, block 25: 8
+average training loss in epoch 8, block 26: 5.155074
+time for epoch 8, block 26: 9
+average training loss in epoch 8, block 27: 5.172924
+time for epoch 8, block 27: 9
+average training loss in epoch 8, block 28: 5.093512
+time for epoch 8, block 28: 8
+average training loss in epoch 8, block 29: 5.111808
+time for epoch 8, block 29: 8
+average training loss in epoch 8, block 30: 5.109496
+time for epoch 8, block 30: 8
+average training loss in epoch 8, block 31: 5.278796
+time for epoch 8, block 31: 9
+average training loss in epoch 8, block 32: 5.207506
+time for epoch 8, block 32: 9
+average training loss in epoch 8, block 33: 5.390227
+time for epoch 8, block 33: 9
+average training loss in epoch 8, block 34: 5.127698
+time for epoch 8, block 34: 9
+average training loss in epoch 8, block 35: 5.320709
+time for epoch 8, block 35: 8
+average training loss in epoch 8, block 36: 5.238646
+time for epoch 8, block 36: 9
+average training loss in epoch 8, block 37: 5.060948
+time for epoch 8, block 37: 9
+average training loss in epoch 8, block 38: 4.991953
+time for epoch 8, block 38: 9
+average training loss in epoch 8, block 39: 5.032502
+time for epoch 8, block 39: 9
+average training loss in epoch 8, block 40: 5.278261
+time for epoch 8, block 40: 9
+average training loss in epoch 8, block 41: 5.325185
+time for epoch 8, block 41: 9
+average training loss in epoch 8, block 42: 5.079809
+time for epoch 8, block 42: 8
+average training loss in epoch 8, block 43: 5.255436
+time for epoch 8, block 43: 8
+average training loss in epoch 8, block 44: 4.998517
+time for epoch 8, block 44: 8
+average training loss in epoch 8, block 45: 4.972128
+time for epoch 8, block 45: 8
+average training loss in epoch 8, block 46: 5.062572
+time for epoch 8, block 46: 8
+average training loss in epoch 8, block 47: 5.242426
+time for epoch 8, block 47: 8
+average training loss in epoch 8, block 48: 5.059635
+time for epoch 8, block 48: 8
+average training loss in epoch 8, block 49: 5.211039
+time for epoch 8, block 49: 8
+average training loss in epoch 8, block 50: 5.073343
+time for epoch 8, block 50: 8
+average training loss in epoch 8, block 51: 5.273783
+time for epoch 8, block 51: 8
+average training loss in epoch 8, block 52: 5.132816
+time for epoch 8, block 52: 8
+average training loss in epoch 8, block 53: 5.217908
+time for epoch 8, block 53: 8
+average training loss in epoch 8, block 54: 5.002393
+time for epoch 8, block 54: 8
+average training loss in epoch 8, block 55: 5.070896
+time for epoch 8, block 55: 8
+average training loss in epoch 8, block 56: 4.947335
+time for epoch 8, block 56: 8
+average training loss in epoch 8, block 57: 5.223311
+time for epoch 8, block 57: 8
+average training loss in epoch 8, block 58: 5.139410
+time for epoch 8, block 58: 8
+average training loss in epoch 8, block 59: 5.087791
+time for epoch 8, block 59: 8
+average training loss in epoch 8, block 60: 5.137058
+time for epoch 8, block 60: 8
+average training loss in epoch 8, block 61: 5.107859
+time for epoch 8, block 61: 8
+average training loss in epoch 8, block 62: 5.060628
+time for epoch 8, block 62: 8
+average training loss in epoch 8, block 63: 5.226671
+time for epoch 8, block 63: 8
+average training loss in epoch 8, block 64: 5.109976
+time for epoch 8, block 64: 8
+average training loss in epoch 8, block 65: 5.147892
+time for epoch 8, block 65: 8
+average training loss in epoch 8, block 66: 5.305087
+time for epoch 8, block 66: 8
+average training loss in epoch 8, block 67: 5.199426
+time for epoch 8, block 67: 8
+average training loss in epoch 8, block 68: 5.164040
+time for epoch 8, block 68: 8
+average training loss in epoch 8, block 69: 5.138193
+time for epoch 8, block 69: 8
+average training loss in epoch 8, block 70: 4.898569
+time for epoch 8, block 70: 8
+average training loss in epoch 8, block 71: 4.912014
+time for epoch 8, block 71: 8
+average training loss in epoch 8, block 72: 5.100365
+time for epoch 8, block 72: 8
+average training loss in epoch 8, block 73: 5.295216
+time for epoch 8, block 73: 8
+average training loss in epoch 8, block 74: 5.142764
+time for epoch 8, block 74: 8
+average training loss in epoch 8, block 75: 5.071706
+time for epoch 8, block 75: 8
+average training loss in epoch 8, block 76: 5.167950
+time for epoch 8, block 76: 8
+average training loss in epoch 8, block 77: 5.095284
+time for epoch 8, block 77: 8
+average training loss in epoch 8, block 78: 5.189154
+time for epoch 8, block 78: 8
+average training loss in epoch 8, block 79: 5.286194
+time for epoch 8, block 79: 8
+average training loss in epoch 8, block 80: 5.097505
+time for epoch 8, block 80: 8
+average training loss in epoch 8, block 81: 5.022034
+time for epoch 8, block 81: 8
+average training loss in epoch 8, block 82: 5.190683
+time for epoch 8, block 82: 8
+average training loss in epoch 8, block 83: 5.264536
+time for epoch 8, block 83: 8
+average training loss in epoch 8, block 84: 5.171490
+time for epoch 8, block 84: 8
+average training loss in epoch 8, block 85: 5.267815
+time for epoch 8, block 85: 8
+average training loss in epoch 8, block 86: 5.306358
+time for epoch 8, block 86: 8
+average training loss in epoch 8, block 87: 5.393602
+time for epoch 8, block 87: 8
+average training loss in epoch 8, block 88: 5.131695
+time for epoch 8, block 88: 8
+average training loss in epoch 8, block 89: 4.863989
+time for epoch 8, block 89: 8
+average training loss in epoch 8, block 90: 5.159905
+time for epoch 8, block 90: 8
+average training loss in epoch 8, block 91: 5.191975
+time for epoch 8, block 91: 8
+average training loss in epoch 8, block 92: 5.209844
+time for epoch 8, block 92: 8
+average training loss in epoch 8, block 93: 5.238703
+time for epoch 8, block 93: 8
+average training loss in epoch 8, block 94: 5.251297
+time for epoch 8, block 94: 8
+average training loss in epoch 8, block 95: 5.238599
+time for epoch 8, block 95: 8
+average training loss in epoch 8, block 96: 5.258643
+time for epoch 8, block 96: 8
+average training loss in epoch 8, block 97: 4.984429
+time for epoch 8, block 97: 8
+average training loss in epoch 8, block 98: 5.138683
+time for epoch 8, block 98: 8
+average training loss in epoch 8, block 99: 5.070167
+time for epoch 8, block 99: 8
+average training loss in epoch 8, block 100: 4.963539
+time for epoch 8, block 100: 8
+average training loss in epoch 9, block 1: 5.252748
+time for epoch 9, block 1: 9
+average training loss in epoch 9, block 2: 4.917657
+time for epoch 9, block 2: 9
+average training loss in epoch 9, block 3: 4.897995
+time for epoch 9, block 3: 9
+average training loss in epoch 9, block 4: 5.087429
+time for epoch 9, block 4: 9
+average training loss in epoch 9, block 5: 4.988104
+time for epoch 9, block 5: 9
+average training loss in epoch 9, block 6: 5.124610
+time for epoch 9, block 6: 9
+average training loss in epoch 9, block 7: 5.242111
+time for epoch 9, block 7: 9
+average training loss in epoch 9, block 8: 5.504931
+time for epoch 9, block 8: 9
+average training loss in epoch 9, block 9: 5.198601
+time for epoch 9, block 9: 9
+average training loss in epoch 9, block 10: 5.252256
+time for epoch 9, block 10: 9
+average training loss in epoch 9, block 11: 4.863074
+time for epoch 9, block 11: 9
+average training loss in epoch 9, block 12: 5.069551
+time for epoch 9, block 12: 8
+average training loss in epoch 9, block 13: 5.147371
+time for epoch 9, block 13: 9
+average training loss in epoch 9, block 14: 4.951376
+time for epoch 9, block 14: 9
+average training loss in epoch 9, block 15: 5.264877
+time for epoch 9, block 15: 9
+average training loss in epoch 9, block 16: 5.095463
+time for epoch 9, block 16: 9
+average training loss in epoch 9, block 17: 5.079577
+time for epoch 9, block 17: 9
+average training loss in epoch 9, block 18: 5.307140
+time for epoch 9, block 18: 9
+average training loss in epoch 9, block 19: 5.068596
+time for epoch 9, block 19: 9
+average training loss in epoch 9, block 20: 5.263371
+time for epoch 9, block 20: 8
+average training loss in epoch 9, block 21: 5.186734
+time for epoch 9, block 21: 9
+average training loss in epoch 9, block 22: 5.122003
+time for epoch 9, block 22: 8
+average training loss in epoch 9, block 23: 5.313316
+time for epoch 9, block 23: 9
+average training loss in epoch 9, block 24: 5.055599
+time for epoch 9, block 24: 9
+average training loss in epoch 9, block 25: 4.980172
+time for epoch 9, block 25: 9
+average training loss in epoch 9, block 26: 5.156767
+time for epoch 9, block 26: 9
+average training loss in epoch 9, block 27: 5.173610
+time for epoch 9, block 27: 9
+average training loss in epoch 9, block 28: 5.089103
+time for epoch 9, block 28: 9
+average training loss in epoch 9, block 29: 5.102640
+time for epoch 9, block 29: 9
+average training loss in epoch 9, block 30: 5.095611
+time for epoch 9, block 30: 9
+average training loss in epoch 9, block 31: 5.258512
+time for epoch 9, block 31: 9
+average training loss in epoch 9, block 32: 5.194644
+time for epoch 9, block 32: 9
+average training loss in epoch 9, block 33: 5.385581
+time for epoch 9, block 33: 9
+average training loss in epoch 9, block 34: 5.118884
+time for epoch 9, block 34: 9
+average training loss in epoch 9, block 35: 5.324844
+time for epoch 9, block 35: 9
+average training loss in epoch 9, block 36: 5.231730
+time for epoch 9, block 36: 9
+average training loss in epoch 9, block 37: 5.049794
+time for epoch 9, block 37: 9
+average training loss in epoch 9, block 38: 4.980111
+time for epoch 9, block 38: 9
+average training loss in epoch 9, block 39: 5.027092
+time for epoch 9, block 39: 9
+average training loss in epoch 9, block 40: 5.267401
+time for epoch 9, block 40: 9
+average training loss in epoch 9, block 41: 5.318406
+time for epoch 9, block 41: 9
+average training loss in epoch 9, block 42: 5.065910
+time for epoch 9, block 42: 9
+average training loss in epoch 9, block 43: 5.254061
+time for epoch 9, block 43: 8
+average training loss in epoch 9, block 44: 4.990524
+time for epoch 9, block 44: 8
+average training loss in epoch 9, block 45: 4.966479
+time for epoch 9, block 45: 8
+average training loss in epoch 9, block 46: 5.061899
+time for epoch 9, block 46: 8
+average training loss in epoch 9, block 47: 5.230555
+time for epoch 9, block 47: 9
+average training loss in epoch 9, block 48: 5.049192
+time for epoch 9, block 48: 8
+average training loss in epoch 9, block 49: 5.200271
+time for epoch 9, block 49: 8
+average training loss in epoch 9, block 50: 5.066305
+time for epoch 9, block 50: 8
+average training loss in epoch 9, block 51: 5.275010
+time for epoch 9, block 51: 9
+average training loss in epoch 9, block 52: 5.136822
+time for epoch 9, block 52: 8
+average training loss in epoch 9, block 53: 5.213751
+time for epoch 9, block 53: 8
+average training loss in epoch 9, block 54: 4.999768
+time for epoch 9, block 54: 9
+average training loss in epoch 9, block 55: 5.070168
+time for epoch 9, block 55: 8
+average training loss in epoch 9, block 56: 4.943683
+time for epoch 9, block 56: 9
+average training loss in epoch 9, block 57: 5.217863
+time for epoch 9, block 57: 8
+average training loss in epoch 9, block 58: 5.141515
+time for epoch 9, block 58: 8
+average training loss in epoch 9, block 59: 5.083245
+time for epoch 9, block 59: 8
+average training loss in epoch 9, block 60: 5.135593
+time for epoch 9, block 60: 8
+average training loss in epoch 9, block 61: 5.102938
+time for epoch 9, block 61: 8
+average training loss in epoch 9, block 62: 5.061918
+time for epoch 9, block 62: 8
+average training loss in epoch 9, block 63: 5.225878
+time for epoch 9, block 63: 8
+average training loss in epoch 9, block 64: 5.111024
+time for epoch 9, block 64: 8
+average training loss in epoch 9, block 65: 5.151402
+time for epoch 9, block 65: 8
+average training loss in epoch 9, block 66: 5.305947
+time for epoch 9, block 66: 8
+average training loss in epoch 9, block 67: 5.200386
+time for epoch 9, block 67: 8
+average training loss in epoch 9, block 68: 5.171845
+time for epoch 9, block 68: 8
+average training loss in epoch 9, block 69: 5.141088
+time for epoch 9, block 69: 8
+average training loss in epoch 9, block 70: 4.906138
+time for epoch 9, block 70: 8
+average training loss in epoch 9, block 71: 4.919247
+time for epoch 9, block 71: 8
+average training loss in epoch 9, block 72: 5.107540
+time for epoch 9, block 72: 8
+average training loss in epoch 9, block 73: 5.313355
+time for epoch 9, block 73: 8
+average training loss in epoch 9, block 74: 5.143676
+time for epoch 9, block 74: 8
+average training loss in epoch 9, block 75: 5.065682
+time for epoch 9, block 75: 8
+average training loss in epoch 9, block 76: 5.171096
+time for epoch 9, block 76: 8
+average training loss in epoch 9, block 77: 5.100428
+time for epoch 9, block 77: 8
+average training loss in epoch 9, block 78: 5.192021
+time for epoch 9, block 78: 8
+average training loss in epoch 9, block 79: 5.303475
+time for epoch 9, block 79: 8
+average training loss in epoch 9, block 80: 5.100469
+time for epoch 9, block 80: 8
+average training loss in epoch 9, block 81: 5.018096
+time for epoch 9, block 81: 8
+average training loss in epoch 9, block 82: 5.200134
+time for epoch 9, block 82: 8
+average training loss in epoch 9, block 83: 5.271376
+time for epoch 9, block 83: 8
+average training loss in epoch 9, block 84: 5.177687
+time for epoch 9, block 84: 8
+average training loss in epoch 9, block 85: 5.274401
+time for epoch 9, block 85: 8
+average training loss in epoch 9, block 86: 5.319608
+time for epoch 9, block 86: 8
+average training loss in epoch 9, block 87: 5.397919
+time for epoch 9, block 87: 8
+average training loss in epoch 9, block 88: 5.129970
+time for epoch 9, block 88: 8
+average training loss in epoch 9, block 89: 4.869487
+time for epoch 9, block 89: 8
+average training loss in epoch 9, block 90: 5.173271
+time for epoch 9, block 90: 8
+average training loss in epoch 9, block 91: 5.201556
+time for epoch 9, block 91: 8
+average training loss in epoch 9, block 92: 5.215388
+time for epoch 9, block 92: 8
+average training loss in epoch 9, block 93: 5.249312
+time for epoch 9, block 93: 8
+average training loss in epoch 9, block 94: 5.253750
+time for epoch 9, block 94: 8
+average training loss in epoch 9, block 95: 5.233201
+time for epoch 9, block 95: 8
+average training loss in epoch 9, block 96: 5.253048
+time for epoch 9, block 96: 8
+average training loss in epoch 9, block 97: 4.988760
+time for epoch 9, block 97: 8
+average training loss in epoch 9, block 98: 5.149331
+time for epoch 9, block 98: 8
+average training loss in epoch 9, block 99: 5.066281
+time for epoch 9, block 99: 8
+average training loss in epoch 9, block 100: 4.973728
+time for epoch 9, block 100: 8
+average training loss in epoch 10, block 1: 5.257732
+time for epoch 10, block 1: 8
+average training loss in epoch 10, block 2: 4.922340
+time for epoch 10, block 2: 8
+average training loss in epoch 10, block 3: 4.899257
+time for epoch 10, block 3: 8
+average training loss in epoch 10, block 4: 5.089086
+time for epoch 10, block 4: 8
+average training loss in epoch 10, block 5: 4.997326
+time for epoch 10, block 5: 8
+average training loss in epoch 10, block 6: 5.137054
+time for epoch 10, block 6: 8
+average training loss in epoch 10, block 7: 5.260699
+time for epoch 10, block 7: 8
+average training loss in epoch 10, block 8: 5.513113
+time for epoch 10, block 8: 8
+average training loss in epoch 10, block 9: 5.213408
+time for epoch 10, block 9: 8
+average training loss in epoch 10, block 10: 5.258779
+time for epoch 10, block 10: 7
+average training loss in epoch 10, block 11: 4.873786
+time for epoch 10, block 11: 8
+average training loss in epoch 10, block 12: 5.084983
+time for epoch 10, block 12: 8
+average training loss in epoch 10, block 13: 5.152306
+time for epoch 10, block 13: 8
+average training loss in epoch 10, block 14: 4.960124
+time for epoch 10, block 14: 8
+average training loss in epoch 10, block 15: 5.277693
+time for epoch 10, block 15: 8
+average training loss in epoch 10, block 16: 5.098672
+time for epoch 10, block 16: 8
+average training loss in epoch 10, block 17: 5.082146
+time for epoch 10, block 17: 8
+average training loss in epoch 10, block 18: 5.323648
+time for epoch 10, block 18: 8
+average training loss in epoch 10, block 19: 5.079583
+time for epoch 10, block 19: 8
+average training loss in epoch 10, block 20: 5.283839
+time for epoch 10, block 20: 8
+average training loss in epoch 10, block 21: 5.202737
+time for epoch 10, block 21: 8
+average training loss in epoch 10, block 22: 5.131148
+time for epoch 10, block 22: 8
+average training loss in epoch 10, block 23: 5.320734
+time for epoch 10, block 23: 8
+average training loss in epoch 10, block 24: 5.071631
+time for epoch 10, block 24: 8
+average training loss in epoch 10, block 25: 4.983961
+time for epoch 10, block 25: 8
+average training loss in epoch 10, block 26: 5.172766
+time for epoch 10, block 26: 8
+average training loss in epoch 10, block 27: 5.189193
+time for epoch 10, block 27: 8
+average training loss in epoch 10, block 28: 5.102982
+time for epoch 10, block 28: 8
+average training loss in epoch 10, block 29: 5.117946
+time for epoch 10, block 29: 8
+average training loss in epoch 10, block 30: 5.117120
+time for epoch 10, block 30: 9
+average training loss in epoch 10, block 31: 5.280530
+time for epoch 10, block 31: 9
+average training loss in epoch 10, block 32: 5.201263
+time for epoch 10, block 32: 9
+average training loss in epoch 10, block 33: 5.398806
+time for epoch 10, block 33: 9
+average training loss in epoch 10, block 34: 5.140692
+time for epoch 10, block 34: 8
+average training loss in epoch 10, block 35: 5.348952
+time for epoch 10, block 35: 9
+average training loss in epoch 10, block 36: 5.245283
+time for epoch 10, block 36: 9
+average training loss in epoch 10, block 37: 5.074046
+time for epoch 10, block 37: 9
+average training loss in epoch 10, block 38: 4.987552
+time for epoch 10, block 38: 8
+average training loss in epoch 10, block 39: 5.046225
+time for epoch 10, block 39: 9
+average training loss in epoch 10, block 40: 5.289357
+time for epoch 10, block 40: 9
+average training loss in epoch 10, block 41: 5.344717
+time for epoch 10, block 41: 8
+average training loss in epoch 10, block 42: 5.095200
+time for epoch 10, block 42: 9
+average training loss in epoch 10, block 43: 5.276979
+time for epoch 10, block 43: 9
+average training loss in epoch 10, block 44: 5.018315
+time for epoch 10, block 44: 8
+average training loss in epoch 10, block 45: 4.985910
+time for epoch 10, block 45: 8
+average training loss in epoch 10, block 46: 5.078953
+time for epoch 10, block 46: 9
+average training loss in epoch 10, block 47: 5.254156
+time for epoch 10, block 47: 8
+average training loss in epoch 10, block 48: 5.064645
+time for epoch 10, block 48: 9
+average training loss in epoch 10, block 49: 5.234848
+time for epoch 10, block 49: 9
+average training loss in epoch 10, block 50: 5.098106
+time for epoch 10, block 50: 9
+average training loss in epoch 10, block 51: 5.295837
+time for epoch 10, block 51: 9
+average training loss in epoch 10, block 52: 5.161819
+time for epoch 10, block 52: 9
+average training loss in epoch 10, block 53: 5.234673
+time for epoch 10, block 53: 9
+average training loss in epoch 10, block 54: 5.024577
+time for epoch 10, block 54: 9
+average training loss in epoch 10, block 55: 5.092989
+time for epoch 10, block 55: 9
+average training loss in epoch 10, block 56: 4.963952
+time for epoch 10, block 56: 9
+average training loss in epoch 10, block 57: 5.252341
+time for epoch 10, block 57: 8
+average training loss in epoch 10, block 58: 5.169110
+time for epoch 10, block 58: 8
+average training loss in epoch 10, block 59: 5.105574
+time for epoch 10, block 59: 8
+average training loss in epoch 10, block 60: 5.157342
+time for epoch 10, block 60: 9
+average training loss in epoch 10, block 61: 5.136559
+time for epoch 10, block 61: 9
+average training loss in epoch 10, block 62: 5.086037
+time for epoch 10, block 62: 9
+average training loss in epoch 10, block 63: 5.258278
+time for epoch 10, block 63: 8
+average training loss in epoch 10, block 64: 5.138230
+time for epoch 10, block 64: 8
+average training loss in epoch 10, block 65: 5.186126
+time for epoch 10, block 65: 8
+average training loss in epoch 10, block 66: 5.336971
+time for epoch 10, block 66: 9
+average training loss in epoch 10, block 67: 5.239202
+time for epoch 10, block 67: 8
+average training loss in epoch 10, block 68: 5.197542
+time for epoch 10, block 68: 8
+average training loss in epoch 10, block 69: 5.171941
+time for epoch 10, block 69: 8
+average training loss in epoch 10, block 70: 4.916891
+time for epoch 10, block 70: 8
+average training loss in epoch 10, block 71: 4.937795
+time for epoch 10, block 71: 8
+average training loss in epoch 10, block 72: 5.137693
+time for epoch 10, block 72: 9
+average training loss in epoch 10, block 73: 5.343847
+time for epoch 10, block 73: 9
+average training loss in epoch 10, block 74: 5.172946
+time for epoch 10, block 74: 8
+average training loss in epoch 10, block 75: 5.097710
+time for epoch 10, block 75: 8
+average training loss in epoch 10, block 76: 5.195428
+time for epoch 10, block 76: 8
+average training loss in epoch 10, block 77: 5.131625
+time for epoch 10, block 77: 8
+average training loss in epoch 10, block 78: 5.218980
+time for epoch 10, block 78: 8
+average training loss in epoch 10, block 79: 5.334241
+time for epoch 10, block 79: 8
+average training loss in epoch 10, block 80: 5.125275
+time for epoch 10, block 80: 8
+average training loss in epoch 10, block 81: 5.038884
+time for epoch 10, block 81: 8
+average training loss in epoch 10, block 82: 5.228775
+time for epoch 10, block 82: 8
+average training loss in epoch 10, block 83: 5.304760
+time for epoch 10, block 83: 8
+average training loss in epoch 10, block 84: 5.209025
+time for epoch 10, block 84: 8
+average training loss in epoch 10, block 85: 5.306715
+time for epoch 10, block 85: 8
+average training loss in epoch 10, block 86: 5.346403
+time for epoch 10, block 86: 8
+average training loss in epoch 10, block 87: 5.424577
+time for epoch 10, block 87: 8
+average training loss in epoch 10, block 88: 5.158727
+time for epoch 10, block 88: 8
+average training loss in epoch 10, block 89: 4.898214
+time for epoch 10, block 89: 8
+average training loss in epoch 10, block 90: 5.211073
+time for epoch 10, block 90: 8
+average training loss in epoch 10, block 91: 5.228114
+time for epoch 10, block 91: 8
+average training loss in epoch 10, block 92: 5.244228
+time for epoch 10, block 92: 8
+average training loss in epoch 10, block 93: 5.277657
+time for epoch 10, block 93: 8
+average training loss in epoch 10, block 94: 5.285595
+time for epoch 10, block 94: 8
+average training loss in epoch 10, block 95: 5.254566
+time for epoch 10, block 95: 8
+average training loss in epoch 10, block 96: 5.269058
+time for epoch 10, block 96: 8
+average training loss in epoch 10, block 97: 5.018675
+time for epoch 10, block 97: 8
+average training loss in epoch 10, block 98: 5.176867
+time for epoch 10, block 98: 8
+average training loss in epoch 10, block 99: 5.083197
+time for epoch 10, block 99: 8
+average training loss in epoch 10, block 100: 4.991226
+time for epoch 10, block 100: 8
+average training loss in epoch 11, block 1: 5.281739
+time for epoch 11, block 1: 8
+average training loss in epoch 11, block 2: 4.946741
+time for epoch 11, block 2: 8
+average training loss in epoch 11, block 3: 4.919386
+time for epoch 11, block 3: 8
+average training loss in epoch 11, block 4: 5.112491
+time for epoch 11, block 4: 8
+average training loss in epoch 11, block 5: 5.019263
+time for epoch 11, block 5: 8
+average training loss in epoch 11, block 6: 5.165854
+time for epoch 11, block 6: 8
+average training loss in epoch 11, block 7: 5.281702
+time for epoch 11, block 7: 8
+average training loss in epoch 11, block 8: 5.537722
+time for epoch 11, block 8: 8
+average training loss in epoch 11, block 9: 5.228785
+time for epoch 11, block 9: 8
+average training loss in epoch 11, block 10: 5.279514
+time for epoch 11, block 10: 8
+average training loss in epoch 11, block 11: 4.882684
+time for epoch 11, block 11: 8
+average training loss in epoch 11, block 12: 5.089902
+time for epoch 11, block 12: 8
+average training loss in epoch 11, block 13: 5.167960
+time for epoch 11, block 13: 8
+average training loss in epoch 11, block 14: 4.973951
+time for epoch 11, block 14: 8
+average training loss in epoch 11, block 15: 5.280074
+time for epoch 11, block 15: 8
+average training loss in epoch 11, block 16: 5.117375
+time for epoch 11, block 16: 8
+average training loss in epoch 11, block 17: 5.097536
+time for epoch 11, block 17: 8
+average training loss in epoch 11, block 18: 5.331766
+time for epoch 11, block 18: 8
+average training loss in epoch 11, block 19: 5.083927
+time for epoch 11, block 19: 8
+average training loss in epoch 11, block 20: 5.292856
+time for epoch 11, block 20: 8
+average training loss in epoch 11, block 21: 5.209868
+time for epoch 11, block 21: 8
+average training loss in epoch 11, block 22: 5.135921
+time for epoch 11, block 22: 8
+average training loss in epoch 11, block 23: 5.332483
+time for epoch 11, block 23: 8
+average training loss in epoch 11, block 24: 5.074765
+time for epoch 11, block 24: 8
+average training loss in epoch 11, block 25: 4.996389
+time for epoch 11, block 25: 8
+average training loss in epoch 11, block 26: 5.173151
+time for epoch 11, block 26: 8
+average training loss in epoch 11, block 27: 5.202154
+time for epoch 11, block 27: 8
+average training loss in epoch 11, block 28: 5.105783
+time for epoch 11, block 28: 8
+average training loss in epoch 11, block 29: 5.124200
+time for epoch 11, block 29: 8
+average training loss in epoch 11, block 30: 5.125553
+time for epoch 11, block 30: 8
+average training loss in epoch 11, block 31: 5.275834
+time for epoch 11, block 31: 8
+average training loss in epoch 11, block 32: 5.204985
+time for epoch 11, block 32: 8
+average training loss in epoch 11, block 33: 5.402589
+time for epoch 11, block 33: 8
+average training loss in epoch 11, block 34: 5.147408
+time for epoch 11, block 34: 8
+average training loss in epoch 11, block 35: 5.346617
+time for epoch 11, block 35: 8
+average training loss in epoch 11, block 36: 5.244323
+time for epoch 11, block 36: 8
+average training loss in epoch 11, block 37: 5.073394
+time for epoch 11, block 37: 8
+average training loss in epoch 11, block 38: 4.986901
+time for epoch 11, block 38: 8
+average training loss in epoch 11, block 39: 5.039179
+time for epoch 11, block 39: 8
+average training loss in epoch 11, block 40: 5.290925
+time for epoch 11, block 40: 8
+average training loss in epoch 11, block 41: 5.347711
+time for epoch 11, block 41: 8
+average training loss in epoch 11, block 42: 5.090193
+time for epoch 11, block 42: 8
+average training loss in epoch 11, block 43: 5.270005
+time for epoch 11, block 43: 8
+average training loss in epoch 11, block 44: 5.011186
+time for epoch 11, block 44: 8
+average training loss in epoch 11, block 45: 4.983675
+time for epoch 11, block 45: 8
+average training loss in epoch 11, block 46: 5.080888
+time for epoch 11, block 46: 8
+average training loss in epoch 11, block 47: 5.242249
+time for epoch 11, block 47: 8
+average training loss in epoch 11, block 48: 5.063883
+time for epoch 11, block 48: 8
+average training loss in epoch 11, block 49: 5.231165
+time for epoch 11, block 49: 8
+average training loss in epoch 11, block 50: 5.083810
+time for epoch 11, block 50: 8
+average training loss in epoch 11, block 51: 5.294218
+time for epoch 11, block 51: 8
+average training loss in epoch 11, block 52: 5.159220
+time for epoch 11, block 52: 8
+average training loss in epoch 11, block 53: 5.244331
+time for epoch 11, block 53: 8
+average training loss in epoch 11, block 54: 5.024551
+time for epoch 11, block 54: 8
+average training loss in epoch 11, block 55: 5.094046
+time for epoch 11, block 55: 8
+average training loss in epoch 11, block 56: 4.959465
+time for epoch 11, block 56: 8
+average training loss in epoch 11, block 57: 5.247628
+time for epoch 11, block 57: 8
+average training loss in epoch 11, block 58: 5.167785
+time for epoch 11, block 58: 8
+average training loss in epoch 11, block 59: 5.113160
+time for epoch 11, block 59: 8
+average training loss in epoch 11, block 60: 5.154157
+time for epoch 11, block 60: 8
+average training loss in epoch 11, block 61: 5.135494
+time for epoch 11, block 61: 8
+average training loss in epoch 11, block 62: 5.082608
+time for epoch 11, block 62: 8
+average training loss in epoch 11, block 63: 5.256970
+time for epoch 11, block 63: 8
+average training loss in epoch 11, block 64: 5.134969
+time for epoch 11, block 64: 8
+average training loss in epoch 11, block 65: 5.174196
+time for epoch 11, block 65: 8
+average training loss in epoch 11, block 66: 5.323779
+time for epoch 11, block 66: 8
+average training loss in epoch 11, block 67: 5.225738
+time for epoch 11, block 67: 8
+average training loss in epoch 11, block 68: 5.184523
+time for epoch 11, block 68: 8
+average training loss in epoch 11, block 69: 5.166321
+time for epoch 11, block 69: 8
+average training loss in epoch 11, block 70: 4.913417
+time for epoch 11, block 70: 8
+average training loss in epoch 11, block 71: 4.931972
+time for epoch 11, block 71: 8
+average training loss in epoch 11, block 72: 5.135089
+time for epoch 11, block 72: 8
+average training loss in epoch 11, block 73: 5.338926
+time for epoch 11, block 73: 8
+average training loss in epoch 11, block 74: 5.174841
+time for epoch 11, block 74: 8
+average training loss in epoch 11, block 75: 5.089605
+time for epoch 11, block 75: 8
+average training loss in epoch 11, block 76: 5.181078
+time for epoch 11, block 76: 8
+average training loss in epoch 11, block 77: 5.129536
+time for epoch 11, block 77: 8
+average training loss in epoch 11, block 78: 5.216007
+time for epoch 11, block 78: 8
+average training loss in epoch 11, block 79: 5.340249
+time for epoch 11, block 79: 8
+average training loss in epoch 11, block 80: 5.109621
+time for epoch 11, block 80: 8
+average training loss in epoch 11, block 81: 5.040659
+time for epoch 11, block 81: 8
+average training loss in epoch 11, block 82: 5.221492
+time for epoch 11, block 82: 8
+average training loss in epoch 11, block 83: 5.301665
+time for epoch 11, block 83: 9
+average training loss in epoch 11, block 84: 5.197560
+time for epoch 11, block 84: 8
+average training loss in epoch 11, block 85: 5.307378
+time for epoch 11, block 85: 8
+average training loss in epoch 11, block 86: 5.346284
+time for epoch 11, block 86: 9
+average training loss in epoch 11, block 87: 5.425266
+time for epoch 11, block 87: 8
+average training loss in epoch 11, block 88: 5.157723
+time for epoch 11, block 88: 8
+average training loss in epoch 11, block 89: 4.898734
+time for epoch 11, block 89: 8
+average training loss in epoch 11, block 90: 5.208041
+time for epoch 11, block 90: 9
+average training loss in epoch 11, block 91: 5.227257
+time for epoch 11, block 91: 8
+average training loss in epoch 11, block 92: 5.245008
+time for epoch 11, block 92: 9
+average training loss in epoch 11, block 93: 5.271300
+time for epoch 11, block 93: 8
+average training loss in epoch 11, block 94: 5.285875
+time for epoch 11, block 94: 8
+average training loss in epoch 11, block 95: 5.252701
+time for epoch 11, block 95: 8
+average training loss in epoch 11, block 96: 5.269252
+time for epoch 11, block 96: 8
+average training loss in epoch 11, block 97: 5.013599
+time for epoch 11, block 97: 9
+average training loss in epoch 11, block 98: 5.171084
+time for epoch 11, block 98: 8
+average training loss in epoch 11, block 99: 5.096181
+time for epoch 11, block 99: 8
+average training loss in epoch 11, block 100: 5.001418
+time for epoch 11, block 100: 8
+average training loss in epoch 12, block 1: 5.282879
+time for epoch 12, block 1: 8
+average training loss in epoch 12, block 2: 4.952352
+time for epoch 12, block 2: 8
+average training loss in epoch 12, block 3: 4.926890
+time for epoch 12, block 3: 9
+average training loss in epoch 12, block 4: 5.115138
+time for epoch 12, block 4: 9
+average training loss in epoch 12, block 5: 5.021515
+time for epoch 12, block 5: 9
+average training loss in epoch 12, block 6: 5.172199
+time for epoch 12, block 6: 9
+average training loss in epoch 12, block 7: 5.291332
+time for epoch 12, block 7: 9
+average training loss in epoch 12, block 8: 5.550177
+time for epoch 12, block 8: 9
+average training loss in epoch 12, block 9: 5.242512
+time for epoch 12, block 9: 9
+average training loss in epoch 12, block 10: 5.282598
+time for epoch 12, block 10: 9
+average training loss in epoch 12, block 11: 4.888121
+time for epoch 12, block 11: 9
+average training loss in epoch 12, block 12: 5.095098
+time for epoch 12, block 12: 9
+average training loss in epoch 12, block 13: 5.184735
+time for epoch 12, block 13: 9
+average training loss in epoch 12, block 14: 4.984379
+time for epoch 12, block 14: 9
+average training loss in epoch 12, block 15: 5.295082
+time for epoch 12, block 15: 9
+average training loss in epoch 12, block 16: 5.122379
+time for epoch 12, block 16: 9
+average training loss in epoch 12, block 17: 5.106906
+time for epoch 12, block 17: 9
+average training loss in epoch 12, block 18: 5.343861
+time for epoch 12, block 18: 9
+average training loss in epoch 12, block 19: 5.103953
+time for epoch 12, block 19: 9
+average training loss in epoch 12, block 20: 5.307791
+time for epoch 12, block 20: 9
+average training loss in epoch 12, block 21: 5.224701
+time for epoch 12, block 21: 8
+average training loss in epoch 12, block 22: 5.153725
+time for epoch 12, block 22: 8
+average training loss in epoch 12, block 23: 5.345691
+time for epoch 12, block 23: 8
+average training loss in epoch 12, block 24: 5.098638
+time for epoch 12, block 24: 8
+average training loss in epoch 12, block 25: 5.009531
+time for epoch 12, block 25: 8
+average training loss in epoch 12, block 26: 5.184424
+time for epoch 12, block 26: 9
+average training loss in epoch 12, block 27: 5.221491
+time for epoch 12, block 27: 8
+average training loss in epoch 12, block 28: 5.116084
+time for epoch 12, block 28: 9
+average training loss in epoch 12, block 29: 5.143834
+time for epoch 12, block 29: 9
+average training loss in epoch 12, block 30: 5.138171
+time for epoch 12, block 30: 9
+average training loss in epoch 12, block 31: 5.297599
+time for epoch 12, block 31: 9
+average training loss in epoch 12, block 32: 5.220905
+time for epoch 12, block 32: 9
+average training loss in epoch 12, block 33: 5.417588
+time for epoch 12, block 33: 9
+average training loss in epoch 12, block 34: 5.163129
+time for epoch 12, block 34: 9
+average training loss in epoch 12, block 35: 5.372297
+time for epoch 12, block 35: 9
+average training loss in epoch 12, block 36: 5.266736
+time for epoch 12, block 36: 9
+average training loss in epoch 12, block 37: 5.088991
+time for epoch 12, block 37: 9
+average training loss in epoch 12, block 38: 5.004328
+time for epoch 12, block 38: 8
+average training loss in epoch 12, block 39: 5.045335
+time for epoch 12, block 39: 9
+average training loss in epoch 12, block 40: 5.309887
+time for epoch 12, block 40: 9
+average training loss in epoch 12, block 41: 5.358748
+time for epoch 12, block 41: 8
+average training loss in epoch 12, block 42: 5.104002
+time for epoch 12, block 42: 9
+average training loss in epoch 12, block 43: 5.290841
+time for epoch 12, block 43: 9
+average training loss in epoch 12, block 44: 5.025293
+time for epoch 12, block 44: 9
+average training loss in epoch 12, block 45: 4.997431
+time for epoch 12, block 45: 8
+average training loss in epoch 12, block 46: 5.099635
+time for epoch 12, block 46: 9
+average training loss in epoch 12, block 47: 5.257455
+time for epoch 12, block 47: 8
+average training loss in epoch 12, block 48: 5.069775
+time for epoch 12, block 48: 8
+average training loss in epoch 12, block 49: 5.239312
+time for epoch 12, block 49: 8
+average training loss in epoch 12, block 50: 5.098416
+time for epoch 12, block 50: 8
+average training loss in epoch 12, block 51: 5.309525
+time for epoch 12, block 51: 8
+average training loss in epoch 12, block 52: 5.177761
+time for epoch 12, block 52: 8
+average training loss in epoch 12, block 53: 5.261328
+time for epoch 12, block 53: 8
+average training loss in epoch 12, block 54: 5.041207
+time for epoch 12, block 54: 8
+average training loss in epoch 12, block 55: 5.111804
+time for epoch 12, block 55: 8
+average training loss in epoch 12, block 56: 4.970394
+time for epoch 12, block 56: 9
+average training loss in epoch 12, block 57: 5.263197
+time for epoch 12, block 57: 8
+average training loss in epoch 12, block 58: 5.180913
+time for epoch 12, block 58: 8
+average training loss in epoch 12, block 59: 5.134126
+time for epoch 12, block 59: 9
+average training loss in epoch 12, block 60: 5.180066
+time for epoch 12, block 60: 9
+average training loss in epoch 12, block 61: 5.147075
+time for epoch 12, block 61: 8
+average training loss in epoch 12, block 62: 5.094260
+time for epoch 12, block 62: 9
+average training loss in epoch 12, block 63: 5.269582
+time for epoch 12, block 63: 9
+average training loss in epoch 12, block 64: 5.154956
+time for epoch 12, block 64: 9
+average training loss in epoch 12, block 65: 5.188410
+time for epoch 12, block 65: 9
+average training loss in epoch 12, block 66: 5.326440
+time for epoch 12, block 66: 9
+average training loss in epoch 12, block 67: 5.234448
+time for epoch 12, block 67: 9
+average training loss in epoch 12, block 68: 5.202023
+time for epoch 12, block 68: 8
+average training loss in epoch 12, block 69: 5.174772
+time for epoch 12, block 69: 8
+average training loss in epoch 12, block 70: 4.917723
+time for epoch 12, block 70: 9
+average training loss in epoch 12, block 71: 4.942396
+time for epoch 12, block 71: 8
+average training loss in epoch 12, block 72: 5.138006
+time for epoch 12, block 72: 9
+average training loss in epoch 12, block 73: 5.344507
+time for epoch 12, block 73: 9
+average training loss in epoch 12, block 74: 5.189537
+time for epoch 12, block 74: 8
+average training loss in epoch 12, block 75: 5.094519
+time for epoch 12, block 75: 9
+average training loss in epoch 12, block 76: 5.193007
+time for epoch 12, block 76: 9
+average training loss in epoch 12, block 77: 5.131065
+time for epoch 12, block 77: 9
+average training loss in epoch 12, block 78: 5.215533
+time for epoch 12, block 78: 9
+average training loss in epoch 12, block 79: 5.344050
+time for epoch 12, block 79: 9
+average training loss in epoch 12, block 80: 5.104529
+time for epoch 12, block 80: 9
+average training loss in epoch 12, block 81: 5.025921
+time for epoch 12, block 81: 8
+average training loss in epoch 12, block 82: 5.213865
+time for epoch 12, block 82: 9
+average training loss in epoch 12, block 83: 5.307272
+time for epoch 12, block 83: 9
+average training loss in epoch 12, block 84: 5.200054
+time for epoch 12, block 84: 8
+average training loss in epoch 12, block 85: 5.298489
+time for epoch 12, block 85: 9
+average training loss in epoch 12, block 86: 5.332541
+time for epoch 12, block 86: 9
+average training loss in epoch 12, block 87: 5.415470
+time for epoch 12, block 87: 9
+average training loss in epoch 12, block 88: 5.150284
+time for epoch 12, block 88: 8
+average training loss in epoch 12, block 89: 4.882310
+time for epoch 12, block 89: 9
+average training loss in epoch 12, block 90: 5.192925
+time for epoch 12, block 90: 9
+average training loss in epoch 12, block 91: 5.216767
+time for epoch 12, block 91: 9
+average training loss in epoch 12, block 92: 5.237929
+time for epoch 12, block 92: 9
+average training loss in epoch 12, block 93: 5.255383
+time for epoch 12, block 93: 9
+average training loss in epoch 12, block 94: 5.266488
+time for epoch 12, block 94: 8
+average training loss in epoch 12, block 95: 5.235808
+time for epoch 12, block 95: 8
+average training loss in epoch 12, block 96: 5.238276
+time for epoch 12, block 96: 9
+average training loss in epoch 12, block 97: 5.001344
+time for epoch 12, block 97: 9
+average training loss in epoch 12, block 98: 5.153653
+time for epoch 12, block 98: 8
+average training loss in epoch 12, block 99: 5.069136
+time for epoch 12, block 99: 9
+average training loss in epoch 12, block 100: 4.980193
+time for epoch 12, block 100: 9
+average training loss in epoch 13, block 1: 5.266519
+time for epoch 13, block 1: 8
+average training loss in epoch 13, block 2: 4.936622
+time for epoch 13, block 2: 9
+average training loss in epoch 13, block 3: 4.918146
+time for epoch 13, block 3: 9
+average training loss in epoch 13, block 4: 5.085590
+time for epoch 13, block 4: 8
+average training loss in epoch 13, block 5: 4.998023
+time for epoch 13, block 5: 8
+average training loss in epoch 13, block 6: 5.150170
+time for epoch 13, block 6: 9
+average training loss in epoch 13, block 7: 5.259647
+time for epoch 13, block 7: 8
+average training loss in epoch 13, block 8: 5.520460
+time for epoch 13, block 8: 8
+average training loss in epoch 13, block 9: 5.209282
+time for epoch 13, block 9: 8
+average training loss in epoch 13, block 10: 5.238179
+time for epoch 13, block 10: 9
+average training loss in epoch 13, block 11: 4.866644
+time for epoch 13, block 11: 8
+average training loss in epoch 13, block 12: 5.073573
+time for epoch 13, block 12: 8
+average training loss in epoch 13, block 13: 5.141474
+time for epoch 13, block 13: 9
+average training loss in epoch 13, block 14: 4.949388
+time for epoch 13, block 14: 8
+average training loss in epoch 13, block 15: 5.257104
+time for epoch 13, block 15: 8
+average training loss in epoch 13, block 16: 5.084966
+time for epoch 13, block 16: 9
+average training loss in epoch 13, block 17: 5.079764
+time for epoch 13, block 17: 9
+average training loss in epoch 13, block 18: 5.297893
+time for epoch 13, block 18: 9
+average training loss in epoch 13, block 19: 5.064087
+time for epoch 13, block 19: 9
+average training loss in epoch 13, block 20: 5.277693
+time for epoch 13, block 20: 9
+average training loss in epoch 13, block 21: 5.184820
+time for epoch 13, block 21: 8
+average training loss in epoch 13, block 22: 5.103818
+time for epoch 13, block 22: 8
+average training loss in epoch 13, block 23: 5.300210
+time for epoch 13, block 23: 8
+average training loss in epoch 13, block 24: 5.051251
+time for epoch 13, block 24: 8
+average training loss in epoch 13, block 25: 4.960594
+time for epoch 13, block 25: 8
+average training loss in epoch 13, block 26: 5.149413
+time for epoch 13, block 26: 8
+average training loss in epoch 13, block 27: 5.167479
+time for epoch 13, block 27: 8
+average training loss in epoch 13, block 28: 5.072600
+time for epoch 13, block 28: 8
+average training loss in epoch 13, block 29: 5.093857
+time for epoch 13, block 29: 8
+average training loss in epoch 13, block 30: 5.083034
+time for epoch 13, block 30: 9
+average training loss in epoch 13, block 31: 5.233575
+time for epoch 13, block 31: 9
+average training loss in epoch 13, block 32: 5.179795
+time for epoch 13, block 32: 9
+average training loss in epoch 13, block 33: 5.358672
+time for epoch 13, block 33: 9
+average training loss in epoch 13, block 34: 5.120483
+time for epoch 13, block 34: 9
+average training loss in epoch 13, block 35: 5.315090
+time for epoch 13, block 35: 9
+average training loss in epoch 13, block 36: 5.211818
+time for epoch 13, block 36: 9
+average training loss in epoch 13, block 37: 5.035864
+time for epoch 13, block 37: 9
+average training loss in epoch 13, block 38: 4.952952
+time for epoch 13, block 38: 8
+average training loss in epoch 13, block 39: 5.006655
+time for epoch 13, block 39: 9
+average training loss in epoch 13, block 40: 5.240516
+time for epoch 13, block 40: 9
+average training loss in epoch 13, block 41: 5.304302
+time for epoch 13, block 41: 9
+average training loss in epoch 13, block 42: 5.038512
+time for epoch 13, block 42: 9
+average training loss in epoch 13, block 43: 5.233887
+time for epoch 13, block 43: 9
+average training loss in epoch 13, block 44: 4.974923
+time for epoch 13, block 44: 9
+average training loss in epoch 13, block 45: 4.948235
+time for epoch 13, block 45: 9
+average training loss in epoch 13, block 46: 5.045781
+time for epoch 13, block 46: 8
+average training loss in epoch 13, block 47: 5.199227
+time for epoch 13, block 47: 9
+average training loss in epoch 13, block 48: 5.029496
+time for epoch 13, block 48: 8
+average training loss in epoch 13, block 49: 5.189864
+time for epoch 13, block 49: 8
+average training loss in epoch 13, block 50: 5.044093
+time for epoch 13, block 50: 9
+average training loss in epoch 13, block 51: 5.257211
+time for epoch 13, block 51: 8
+average training loss in epoch 13, block 52: 5.135341
+time for epoch 13, block 52: 9
+average training loss in epoch 13, block 53: 5.207293
+time for epoch 13, block 53: 9
+average training loss in epoch 13, block 54: 4.980327
+time for epoch 13, block 54: 9
+average training loss in epoch 13, block 55: 5.056550
+time for epoch 13, block 55: 9
+average training loss in epoch 13, block 56: 4.929071
+time for epoch 13, block 56: 9
+average training loss in epoch 13, block 57: 5.208964
+time for epoch 13, block 57: 9
+average training loss in epoch 13, block 58: 5.123294
+time for epoch 13, block 58: 9
+average training loss in epoch 13, block 59: 5.061645
+time for epoch 13, block 59: 9
+average training loss in epoch 13, block 60: 5.125553
+time for epoch 13, block 60: 9
+average training loss in epoch 13, block 61: 5.087884
+time for epoch 13, block 61: 9
+average training loss in epoch 13, block 62: 5.030943
+time for epoch 13, block 62: 9
+average training loss in epoch 13, block 63: 5.214400
+time for epoch 13, block 63: 9
+average training loss in epoch 13, block 64: 5.090510
+time for epoch 13, block 64: 9
+average training loss in epoch 13, block 65: 5.127479
+time for epoch 13, block 65: 9
+average training loss in epoch 13, block 66: 5.285748
+time for epoch 13, block 66: 9
+average training loss in epoch 13, block 67: 5.187262
+time for epoch 13, block 67: 8
+average training loss in epoch 13, block 68: 5.150016
+time for epoch 13, block 68: 9
+average training loss in epoch 13, block 69: 5.119461
+time for epoch 13, block 69: 8
+average training loss in epoch 13, block 70: 4.865623
+time for epoch 13, block 70: 9
+average training loss in epoch 13, block 71: 4.881162
+time for epoch 13, block 71: 8
+average training loss in epoch 13, block 72: 5.084412
+time for epoch 13, block 72: 8
+average training loss in epoch 13, block 73: 5.296399
+time for epoch 13, block 73: 9
+average training loss in epoch 13, block 74: 5.133125
+time for epoch 13, block 74: 8
+average training loss in epoch 13, block 75: 5.042025
+time for epoch 13, block 75: 8
+average training loss in epoch 13, block 76: 5.144689
+time for epoch 13, block 76: 8
+average training loss in epoch 13, block 77: 5.080479
+time for epoch 13, block 77: 8
+average training loss in epoch 13, block 78: 5.168677
+time for epoch 13, block 78: 8
+average training loss in epoch 13, block 79: 5.292902
+time for epoch 13, block 79: 8
+average training loss in epoch 13, block 80: 5.062121
+time for epoch 13, block 80: 9
+average training loss in epoch 13, block 81: 4.982175
+time for epoch 13, block 81: 8
+average training loss in epoch 13, block 82: 5.173864
+time for epoch 13, block 82: 9
+average training loss in epoch 13, block 83: 5.261149
+time for epoch 13, block 83: 9
+average training loss in epoch 13, block 84: 5.163574
+time for epoch 13, block 84: 9
+average training loss in epoch 13, block 85: 5.258000
+time for epoch 13, block 85: 9
+average training loss in epoch 13, block 86: 5.294735
+time for epoch 13, block 86: 9
+average training loss in epoch 13, block 87: 5.383722
+time for epoch 13, block 87: 9
+average training loss in epoch 13, block 88: 5.112175
+time for epoch 13, block 88: 9
+average training loss in epoch 13, block 89: 4.842973
+time for epoch 13, block 89: 9
+average training loss in epoch 13, block 90: 5.159779
+time for epoch 13, block 90: 9
+average training loss in epoch 13, block 91: 5.184151
+time for epoch 13, block 91: 8
+average training loss in epoch 13, block 92: 5.201056
+time for epoch 13, block 92: 9
+average training loss in epoch 13, block 93: 5.224526
+time for epoch 13, block 93: 9
+average training loss in epoch 13, block 94: 5.234280
+time for epoch 13, block 94: 9
+average training loss in epoch 13, block 95: 5.204843
+time for epoch 13, block 95: 9
+average training loss in epoch 13, block 96: 5.205605
+time for epoch 13, block 96: 9
+average training loss in epoch 13, block 97: 4.970050
+time for epoch 13, block 97: 9
+average training loss in epoch 13, block 98: 5.125669
+time for epoch 13, block 98: 8
+average training loss in epoch 13, block 99: 5.028861
+time for epoch 13, block 99: 9
+average training loss in epoch 13, block 100: 4.949126
+time for epoch 13, block 100: 9
+average training loss in epoch 14, block 1: 5.236082
+time for epoch 14, block 1: 9
+average training loss in epoch 14, block 2: 4.907893
+time for epoch 14, block 2: 9
+average training loss in epoch 14, block 3: 4.886947
+time for epoch 14, block 3: 9
+average training loss in epoch 14, block 4: 5.061209
+time for epoch 14, block 4: 8
+average training loss in epoch 14, block 5: 4.975130
+time for epoch 14, block 5: 9
+average training loss in epoch 14, block 6: 5.123431
+time for epoch 14, block 6: 9
+average training loss in epoch 14, block 7: 5.245806
+time for epoch 14, block 7: 9
+average training loss in epoch 14, block 8: 5.504371
+time for epoch 14, block 8: 9
+average training loss in epoch 14, block 9: 5.189932
+time for epoch 14, block 9: 9
+average training loss in epoch 14, block 10: 5.226444
+time for epoch 14, block 10: 9
+average training loss in epoch 14, block 11: 4.853582
+time for epoch 14, block 11: 9
+average training loss in epoch 14, block 12: 5.056587
+time for epoch 14, block 12: 9
+average training loss in epoch 14, block 13: 5.134044
+time for epoch 14, block 13: 9
+average training loss in epoch 14, block 14: 4.943132
+time for epoch 14, block 14: 9
+average training loss in epoch 14, block 15: 5.247794
+time for epoch 14, block 15: 9
+average training loss in epoch 14, block 16: 5.079209
+time for epoch 14, block 16: 9
+average training loss in epoch 14, block 17: 5.080139
+time for epoch 14, block 17: 9
+average training loss in epoch 14, block 18: 5.287114
+time for epoch 14, block 18: 9
+average training loss in epoch 14, block 19: 5.060507
+time for epoch 14, block 19: 9
+average training loss in epoch 14, block 20: 5.266688
+time for epoch 14, block 20: 9
+average training loss in epoch 14, block 21: 5.181614
+time for epoch 14, block 21: 8
+average training loss in epoch 14, block 22: 5.098751
+time for epoch 14, block 22: 9
+average training loss in epoch 14, block 23: 5.299559
+time for epoch 14, block 23: 9
+average training loss in epoch 14, block 24: 5.046133
+time for epoch 14, block 24: 9
+average training loss in epoch 14, block 25: 4.971612
+time for epoch 14, block 25: 9
+average training loss in epoch 14, block 26: 5.155800
+time for epoch 14, block 26: 9
+average training loss in epoch 14, block 27: 5.169087
+time for epoch 14, block 27: 9
+average training loss in epoch 14, block 28: 5.077620
+time for epoch 14, block 28: 9
+average training loss in epoch 14, block 29: 5.103474
+time for epoch 14, block 29: 9
+average training loss in epoch 14, block 30: 5.094706
+time for epoch 14, block 30: 9
+average training loss in epoch 14, block 31: 5.251607
+time for epoch 14, block 31: 9
+average training loss in epoch 14, block 32: 5.183759
+time for epoch 14, block 32: 9
+average training loss in epoch 14, block 33: 5.368720
+time for epoch 14, block 33: 9
+average training loss in epoch 14, block 34: 5.122165
+time for epoch 14, block 34: 9
+average training loss in epoch 14, block 35: 5.322533
+time for epoch 14, block 35: 8
+average training loss in epoch 14, block 36: 5.215859
+time for epoch 14, block 36: 8
+average training loss in epoch 14, block 37: 5.036966
+time for epoch 14, block 37: 8
+average training loss in epoch 14, block 38: 4.959944
+time for epoch 14, block 38: 8
+average training loss in epoch 14, block 39: 5.015970
+time for epoch 14, block 39: 8
+average training loss in epoch 14, block 40: 5.258146
+time for epoch 14, block 40: 8
+average training loss in epoch 14, block 41: 5.319554
+time for epoch 14, block 41: 8
+average training loss in epoch 14, block 42: 5.042652
+time for epoch 14, block 42: 8
+average training loss in epoch 14, block 43: 5.245717
+time for epoch 14, block 43: 8
+average training loss in epoch 14, block 44: 4.985948
+time for epoch 14, block 44: 8
+average training loss in epoch 14, block 45: 4.949505
+time for epoch 14, block 45: 8
+average training loss in epoch 14, block 46: 5.056104
+time for epoch 14, block 46: 8
+average training loss in epoch 14, block 47: 5.214649
+time for epoch 14, block 47: 8
+average training loss in epoch 14, block 48: 5.025789
+time for epoch 14, block 48: 8
+average training loss in epoch 14, block 49: 5.198356
+time for epoch 14, block 49: 8
+average training loss in epoch 14, block 50: 5.059333
+time for epoch 14, block 50: 8
+average training loss in epoch 14, block 51: 5.268375
+time for epoch 14, block 51: 9
+average training loss in epoch 14, block 52: 5.148987
+time for epoch 14, block 52: 8
+average training loss in epoch 14, block 53: 5.206426
+time for epoch 14, block 53: 8
+average training loss in epoch 14, block 54: 4.995718
+time for epoch 14, block 54: 9
+average training loss in epoch 14, block 55: 5.073867
+time for epoch 14, block 55: 9
+average training loss in epoch 14, block 56: 4.934966
+time for epoch 14, block 56: 9
+average training loss in epoch 14, block 57: 5.223844
+time for epoch 14, block 57: 9
+average training loss in epoch 14, block 58: 5.131301
+time for epoch 14, block 58: 9
+average training loss in epoch 14, block 59: 5.061719
+time for epoch 14, block 59: 9
+average training loss in epoch 14, block 60: 5.134876
+time for epoch 14, block 60: 9
+average training loss in epoch 14, block 61: 5.098226
+time for epoch 14, block 61: 9
+average training loss in epoch 14, block 62: 5.039872
+time for epoch 14, block 62: 9
+average training loss in epoch 14, block 63: 5.224219
+time for epoch 14, block 63: 9
+average training loss in epoch 14, block 64: 5.093298
+time for epoch 14, block 64: 9
+average training loss in epoch 14, block 65: 5.139944
+time for epoch 14, block 65: 9
+average training loss in epoch 14, block 66: 5.299535
+time for epoch 14, block 66: 9
+average training loss in epoch 14, block 67: 5.203283
+time for epoch 14, block 67: 9
+average training loss in epoch 14, block 68: 5.161807
+time for epoch 14, block 68: 9
+average training loss in epoch 14, block 69: 5.128757
+time for epoch 14, block 69: 9
+average training loss in epoch 14, block 70: 4.874058
+time for epoch 14, block 70: 9
+average training loss in epoch 14, block 71: 4.893600
+time for epoch 14, block 71: 9
+average training loss in epoch 14, block 72: 5.091820
+time for epoch 14, block 72: 9
+average training loss in epoch 14, block 73: 5.299857
+time for epoch 14, block 73: 9
+average training loss in epoch 14, block 74: 5.136437
+time for epoch 14, block 74: 9
+average training loss in epoch 14, block 75: 5.052073
+time for epoch 14, block 75: 9
+average training loss in epoch 14, block 76: 5.153742
+time for epoch 14, block 76: 9
+average training loss in epoch 14, block 77: 5.086432
+time for epoch 14, block 77: 9
+average training loss in epoch 14, block 78: 5.181373
+time for epoch 14, block 78: 9
+average training loss in epoch 14, block 79: 5.297345
+time for epoch 14, block 79: 8
+average training loss in epoch 14, block 80: 5.072852
+time for epoch 14, block 80: 8
+average training loss in epoch 14, block 81: 4.988957
+time for epoch 14, block 81: 9
+average training loss in epoch 14, block 82: 5.178737
+time for epoch 14, block 82: 9
+average training loss in epoch 14, block 83: 5.271420
+time for epoch 14, block 83: 9
+average training loss in epoch 14, block 84: 5.165042
+time for epoch 14, block 84: 9
+average training loss in epoch 14, block 85: 5.268101
+time for epoch 14, block 85: 9
+average training loss in epoch 14, block 86: 5.296356
+time for epoch 14, block 86: 8
+average training loss in epoch 14, block 87: 5.397721
+time for epoch 14, block 87: 9
+average training loss in epoch 14, block 88: 5.117433
+time for epoch 14, block 88: 9
+average training loss in epoch 14, block 89: 4.847444
+time for epoch 14, block 89: 8
+average training loss in epoch 14, block 90: 5.162910
+time for epoch 14, block 90: 9
+average training loss in epoch 14, block 91: 5.190362
+time for epoch 14, block 91: 9
+average training loss in epoch 14, block 92: 5.209459
+time for epoch 14, block 92: 8
+average training loss in epoch 14, block 93: 5.235037
+time for epoch 14, block 93: 9
+average training loss in epoch 14, block 94: 5.236359
+time for epoch 14, block 94: 8
+average training loss in epoch 14, block 95: 5.209601
+time for epoch 14, block 95: 8
+average training loss in epoch 14, block 96: 5.212857
+time for epoch 14, block 96: 8
+average training loss in epoch 14, block 97: 4.980360
+time for epoch 14, block 97: 8
+average training loss in epoch 14, block 98: 5.130355
+time for epoch 14, block 98: 8
+average training loss in epoch 14, block 99: 5.046063
+time for epoch 14, block 99: 8
+average training loss in epoch 14, block 100: 4.950963
+time for epoch 14, block 100: 8
+average training loss in epoch 15, block 1: 5.250526
+time for epoch 15, block 1: 8
+average training loss in epoch 15, block 2: 4.914683
+time for epoch 15, block 2: 8
+average training loss in epoch 15, block 3: 4.890009
+time for epoch 15, block 3: 8
+average training loss in epoch 15, block 4: 5.073338
+time for epoch 15, block 4: 8
+average training loss in epoch 15, block 5: 4.978365
+time for epoch 15, block 5: 8
+average training loss in epoch 15, block 6: 5.130715
+time for epoch 15, block 6: 8
+average training loss in epoch 15, block 7: 5.240077
+time for epoch 15, block 7: 9
